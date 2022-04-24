@@ -1,0 +1,669 @@
+[2022-04-24 02:26:49,704] INFO [django.utils.autoreload.run_with_reloader:597 autoreload] Watching for file changes with StatReloader
+[2022-04-24 23:26:30,525] WARNING [djangoblog.utils.news:38 utils] tuple index out of range
+[2022-04-24 23:26:30,525] WARNING [djangoblog.utils.news:38 utils] tuple index out of range
+[2022-04-24 23:26:30,525] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_current_site key:dd7ff15e02c5004131c6b707173f53d3c680cf6bc1454be1554b2a5b665422eb
+[2022-04-24 23:26:30,525] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_current_site key:dd7ff15e02c5004131c6b707173f53d3c680cf6bc1454be1554b2a5b665422eb
+[2022-04-24 23:26:31,644] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":99999,"success":0,"not_same_site":["https://example.com/author/asun.html"]}
+[2022-04-24 23:26:31,644] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":99999,"success":0,"not_same_site":["https://example.com/author/asun.html"]}
+[2022-04-24 23:28:00,636] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-04-24 23:28:19,001] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-04-24 23:28:19,009] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-04-24 23:28:19,079] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-04-24 23:28:19,079] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-04-24 23:28:22,328] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-04-24 23:28:22,367] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,367] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,367] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b83ebaaf0d132643ac1ca0b18acd69258be267ddaf8fd113b91a93be63948da6
+[2022-04-24 23:28:22,367] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b83ebaaf0d132643ac1ca0b18acd69258be267ddaf8fd113b91a93be63948da6
+[2022-04-24 23:28:22,405] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,405] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,405] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:63476a4e16184ae15cadbe6b045bdf982b7837510e7b6733d3a30dca73151368
+[2022-04-24 23:28:22,405] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:63476a4e16184ae15cadbe6b045bdf982b7837510e7b6733d3a30dca73151368
+[2022-04-24 23:28:22,441] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,441] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,441] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:4f2b9a8509358ff87458772248afdc02afc58957b3d0c9739d06a31f44834f67
+[2022-04-24 23:28:22,441] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:4f2b9a8509358ff87458772248afdc02afc58957b3d0c9739d06a31f44834f67
+[2022-04-24 23:28:22,478] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,478] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,478] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:2f26d8870878fbd04688223e253b21785a26c22e77eeb970b7c3a36968d1a4db
+[2022-04-24 23:28:22,478] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:2f26d8870878fbd04688223e253b21785a26c22e77eeb970b7c3a36968d1a4db
+[2022-04-24 23:28:22,517] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,517] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,518] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:f3545e8bac3be83837dafd6e4ee8ba56e55df4d66d19f820dd511ed9205d73c7
+[2022-04-24 23:28:22,518] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:f3545e8bac3be83837dafd6e4ee8ba56e55df4d66d19f820dd511ed9205d73c7
+[2022-04-24 23:28:22,557] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,557] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,557] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:70fd025d1e2aab0682013e69b964750ed0ac8e4e84dad07ce4b02b205fd9091f
+[2022-04-24 23:28:22,557] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:70fd025d1e2aab0682013e69b964750ed0ac8e4e84dad07ce4b02b205fd9091f
+[2022-04-24 23:28:22,600] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,600] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,600] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:9d268f3d7750f7c4e1946419bd2c51bbf9ccb2e68786cb5449ef85778f75ad2c
+[2022-04-24 23:28:22,600] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:9d268f3d7750f7c4e1946419bd2c51bbf9ccb2e68786cb5449ef85778f75ad2c
+[2022-04-24 23:28:22,638] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,638] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,638] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:7222b113346f4ddaf2415d706766e940eebe1ee26a96532f2dacea5b194d76ab
+[2022-04-24 23:28:22,638] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:7222b113346f4ddaf2415d706766e940eebe1ee26a96532f2dacea5b194d76ab
+[2022-04-24 23:28:22,676] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,676] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,676] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:df82833c6aa74a1be11efdcc67da6d73213cc840176127cf7065f8e1565e1a12
+[2022-04-24 23:28:22,676] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:df82833c6aa74a1be11efdcc67da6d73213cc840176127cf7065f8e1565e1a12
+[2022-04-24 23:28:22,712] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,712] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,712] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ca518332d957350e9e0f3805d14ef8f527072615744e56d5e30a97ce5f83b187
+[2022-04-24 23:28:22,712] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ca518332d957350e9e0f3805d14ef8f527072615744e56d5e30a97ce5f83b187
+[2022-04-24 23:28:22,750] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,750] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,750] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:9af34a81c72f5c2acaeb839a8d90a5800784b774c2ca343d1deaba7d830b165c
+[2022-04-24 23:28:22,750] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:9af34a81c72f5c2acaeb839a8d90a5800784b774c2ca343d1deaba7d830b165c
+[2022-04-24 23:28:22,786] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,786] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,786] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:0ec08b841e44c55996e65afd04cf7e440feb11ec224e817b8d9ed8d9b752480d
+[2022-04-24 23:28:22,786] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:0ec08b841e44c55996e65afd04cf7e440feb11ec224e817b8d9ed8d9b752480d
+[2022-04-24 23:28:22,826] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,826] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,827] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3c50802b54396e3e2e1b7ca7eeaa7c69ae6660ab2a083405853f895c230eee14
+[2022-04-24 23:28:22,827] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3c50802b54396e3e2e1b7ca7eeaa7c69ae6660ab2a083405853f895c230eee14
+[2022-04-24 23:28:22,864] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,864] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,864] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:0632322627a5ef897c4c4f94d487979675d9430a9ba4e4eda5987f81a81384cb
+[2022-04-24 23:28:22,864] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:0632322627a5ef897c4c4f94d487979675d9430a9ba4e4eda5987f81a81384cb
+[2022-04-24 23:28:22,902] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,902] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,902] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:11185c8123f0241e3805da23c148a0ce159e69cf4e03a6e29c0991a2d2b585ba
+[2022-04-24 23:28:22,902] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:11185c8123f0241e3805da23c148a0ce159e69cf4e03a6e29c0991a2d2b585ba
+[2022-04-24 23:28:22,940] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,940] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,940] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:9dbd2d1d67cd7f362a8de8da3d2d3aef2d6974d8c7e2e531843209d1806fdd9e
+[2022-04-24 23:28:22,940] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:9dbd2d1d67cd7f362a8de8da3d2d3aef2d6974d8c7e2e531843209d1806fdd9e
+[2022-04-24 23:28:22,976] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,976] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:22,977] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ffb67a6077f6a8fa5de2497315f1402f689b6a0decd31534af484848a902436e
+[2022-04-24 23:28:22,977] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ffb67a6077f6a8fa5de2497315f1402f689b6a0decd31534af484848a902436e
+[2022-04-24 23:28:23,012] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:23,012] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:23,012] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:dad233b4d0d3c9d094610cdab597a8d65d76476dd46dac0b50c66a4fdae4880a
+[2022-04-24 23:28:23,012] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:dad233b4d0d3c9d094610cdab597a8d65d76476dd46dac0b50c66a4fdae4880a
+[2022-04-24 23:28:23,048] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:23,048] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:23,049] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:e06396f38ee0a87543db74f257feaaef3b906827b767fc5568e556e951c500d3
+[2022-04-24 23:28:23,049] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:e06396f38ee0a87543db74f257feaaef3b906827b767fc5568e556e951c500d3
+[2022-04-24 23:28:23,086] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:23,086] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:28:23,086] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:0b665b81d74851ec48cdd6886f20712e4a54b4a4389de2b95c7081e728ba903f
+[2022-04-24 23:28:23,086] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:0b665b81d74851ec48cdd6886f20712e4a54b4a4389de2b95c7081e728ba903f
+[2022-04-24 23:31:14,899] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:archives
+[2022-04-24 23:31:25,192] WARNING [djangoblog.utils.news:38 utils] 'Category' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,192] WARNING [djangoblog.utils.news:38 utils] 'Category' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,193] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_sub_categorys key:2a16b8c24408fce7fea6a2007515b9402280683813c3443d4da26cd9c42d76cd
+[2022-04-24 23:31:25,193] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_sub_categorys key:2a16b8c24408fce7fea6a2007515b9402280683813c3443d4da26cd9c42d76cd
+[2022-04-24 23:31:25,270] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:category_list_子类目_1
+[2022-04-24 23:31:25,736] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-04-24 23:31:25,775] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,775] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,775] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,775] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,775] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,775] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,776] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,776] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,776] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,776] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,776] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,776] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,776] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,776] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,776] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,776] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,777] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,777] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,777] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,777] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,777] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,777] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,778] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,778] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,778] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,778] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,779] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,779] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,780] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,780] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,781] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,781] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,781] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,781] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,781] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,781] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,782] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,782] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,782] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:25,782] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:31:31,672] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-04-24 23:31:53,540] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-04-24 23:43:58,175] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-04-24 23:54:09,302] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/asun/aal/code/DjangoBlog/blog/views.py changed, reloading.
+[2022-04-24 23:54:10,477] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-04-24 23:54:15,822] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-04-24 23:54:15,831] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-04-24 23:54:15,903] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-04-24 23:54:15,903] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-04-24 23:54:16,481] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-04-24 23:54:16,521] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,521] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,521] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ba1b152d7008780619c61b10cd923e3b361c3839daa0e0ab019d64a0a65aebc1
+[2022-04-24 23:54:16,521] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ba1b152d7008780619c61b10cd923e3b361c3839daa0e0ab019d64a0a65aebc1
+[2022-04-24 23:54:16,560] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,560] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,560] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:0bcb77530289685deab740da5537fece89db11553612c680b8dab9eb305a97ee
+[2022-04-24 23:54:16,560] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:0bcb77530289685deab740da5537fece89db11553612c680b8dab9eb305a97ee
+[2022-04-24 23:54:16,598] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,598] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,599] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:665a57bf4f0cb1149caae2ccfe3fd5cf07442a22d1adc3555e51d07a84e008ef
+[2022-04-24 23:54:16,599] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:665a57bf4f0cb1149caae2ccfe3fd5cf07442a22d1adc3555e51d07a84e008ef
+[2022-04-24 23:54:16,638] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,638] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,638] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:2cf6d2763d19cbda0670ca5a68c1a4412cfe09a961f9671856499710b84619e7
+[2022-04-24 23:54:16,638] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:2cf6d2763d19cbda0670ca5a68c1a4412cfe09a961f9671856499710b84619e7
+[2022-04-24 23:54:16,680] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,680] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,680] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b6b0fb0c0d08db653179d9202fe58c6bbce64a27678734623fcff0ffb60fa83c
+[2022-04-24 23:54:16,680] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b6b0fb0c0d08db653179d9202fe58c6bbce64a27678734623fcff0ffb60fa83c
+[2022-04-24 23:54:16,725] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,725] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,725] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:5f927471ec822ef5c8b335376a101251c3e7e24f569375f9397adb929508d2ad
+[2022-04-24 23:54:16,725] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:5f927471ec822ef5c8b335376a101251c3e7e24f569375f9397adb929508d2ad
+[2022-04-24 23:54:16,764] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,764] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,764] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:8d752d46a28463d8918d45c01b55e483a419d8bb52284b12fca2d6a5b421f1c3
+[2022-04-24 23:54:16,764] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:8d752d46a28463d8918d45c01b55e483a419d8bb52284b12fca2d6a5b421f1c3
+[2022-04-24 23:54:16,801] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,801] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,801] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:dd66e9ebdb80e05e723d2fa87e3d5f092315067da33e20fb26251b2a71b1d477
+[2022-04-24 23:54:16,801] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:dd66e9ebdb80e05e723d2fa87e3d5f092315067da33e20fb26251b2a71b1d477
+[2022-04-24 23:54:16,839] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,839] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,839] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:bcf1fc388cd095810ff5ffbf4f34389cb9025ca298eb84c80584f3897bab8756
+[2022-04-24 23:54:16,839] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:bcf1fc388cd095810ff5ffbf4f34389cb9025ca298eb84c80584f3897bab8756
+[2022-04-24 23:54:16,878] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,878] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,878] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:9761880ed21b8a64598a8c12b9e713e761a2bc0b15e61d7e72ac5529fb1be47f
+[2022-04-24 23:54:16,878] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:9761880ed21b8a64598a8c12b9e713e761a2bc0b15e61d7e72ac5529fb1be47f
+[2022-04-24 23:54:16,917] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,917] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,917] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:756381873ed030e54c6068ca8e4418f6f5846565a6cb143d9174b29f11082d2d
+[2022-04-24 23:54:16,917] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:756381873ed030e54c6068ca8e4418f6f5846565a6cb143d9174b29f11082d2d
+[2022-04-24 23:54:16,957] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,957] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,957] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:070488649b5d61a76c34a5c1e9f29e3704fae415cd85e296d03a8489eb6f19a0
+[2022-04-24 23:54:16,957] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:070488649b5d61a76c34a5c1e9f29e3704fae415cd85e296d03a8489eb6f19a0
+[2022-04-24 23:54:16,999] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,999] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:16,999] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:dddc034a4170c859e1264eb3b6c213779e9d3c644c06861332926165bacdb795
+[2022-04-24 23:54:16,999] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:dddc034a4170c859e1264eb3b6c213779e9d3c644c06861332926165bacdb795
+[2022-04-24 23:54:17,039] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:17,039] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:17,040] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:c6cdcd3e83e7222c3aaa1847272ecc95eab8c9948fc3b287b817937213c5a2e5
+[2022-04-24 23:54:17,040] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:c6cdcd3e83e7222c3aaa1847272ecc95eab8c9948fc3b287b817937213c5a2e5
+[2022-04-24 23:54:17,079] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:17,079] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:17,079] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:473750e8a754e102011427a4000dace0bb94279f12665e69ed7910deadf96506
+[2022-04-24 23:54:17,079] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:473750e8a754e102011427a4000dace0bb94279f12665e69ed7910deadf96506
+[2022-04-24 23:54:17,119] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:17,119] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:17,119] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:9ed77bf223dd6cad6df780a8b77576a18e6f9b80862325562cc281da15d09317
+[2022-04-24 23:54:17,119] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:9ed77bf223dd6cad6df780a8b77576a18e6f9b80862325562cc281da15d09317
+[2022-04-24 23:54:17,162] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:17,162] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:17,162] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:86705f4e815cb89ee63c8d14dbd5e3569fe7b14129e347ca81ef135b66776ee7
+[2022-04-24 23:54:17,162] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:86705f4e815cb89ee63c8d14dbd5e3569fe7b14129e347ca81ef135b66776ee7
+[2022-04-24 23:54:17,203] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:17,203] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:17,203] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:d1f855a8ee667baed49a90a85bb84b876291036b85fa12237692e02d89f681e6
+[2022-04-24 23:54:17,203] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:d1f855a8ee667baed49a90a85bb84b876291036b85fa12237692e02d89f681e6
+[2022-04-24 23:54:17,241] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:17,241] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:17,242] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:bc26cd8f8249e2cea5e7ebceb458b4d177bde20977cb01c17440e5dbde551927
+[2022-04-24 23:54:17,242] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:bc26cd8f8249e2cea5e7ebceb458b4d177bde20977cb01c17440e5dbde551927
+[2022-04-24 23:54:17,289] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:17,289] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-24 23:54:17,289] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:68318bacaa18fe0221ad05ee10b1a3285ca0c50e64ec3da9b6ba811d10668faf
+[2022-04-24 23:54:17,289] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:68318bacaa18fe0221ad05ee10b1a3285ca0c50e64ec3da9b6ba811d10668faf
+[2022-04-25 00:17:35,961] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-04-25 00:17:40,719] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-04-25 00:17:40,726] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-04-25 00:17:40,800] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-04-25 00:17:40,800] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-04-25 00:17:41,035] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-04-25 00:17:41,073] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,073] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,074] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:86b91d70f04ab6a264690ef5a67edd024a77a8347ac90b6211e8877fa1449a24
+[2022-04-25 00:17:41,074] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:86b91d70f04ab6a264690ef5a67edd024a77a8347ac90b6211e8877fa1449a24
+[2022-04-25 00:17:41,112] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,112] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,112] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:48a1d0d1cc3bfe7eec72029f12117430fb5df12dff18aba166b22a83db1f76f6
+[2022-04-25 00:17:41,112] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:48a1d0d1cc3bfe7eec72029f12117430fb5df12dff18aba166b22a83db1f76f6
+[2022-04-25 00:17:41,148] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,148] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,148] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:664389972733df6270fbf9197d1ea9285cd67e342e8cc5b6bc78a1a7d2084396
+[2022-04-25 00:17:41,148] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:664389972733df6270fbf9197d1ea9285cd67e342e8cc5b6bc78a1a7d2084396
+[2022-04-25 00:17:41,183] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,183] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,184] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:1e3c7c0ba539c309e57bc904653e2e154e97eed74c64431934c263a14feffe0b
+[2022-04-25 00:17:41,184] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:1e3c7c0ba539c309e57bc904653e2e154e97eed74c64431934c263a14feffe0b
+[2022-04-25 00:17:41,222] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,222] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,223] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:7ace480ea7d609f4ff398da2d0d813c7861b01ec413a6c1d24e37f2262ff20ad
+[2022-04-25 00:17:41,223] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:7ace480ea7d609f4ff398da2d0d813c7861b01ec413a6c1d24e37f2262ff20ad
+[2022-04-25 00:17:41,259] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,259] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,260] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ade27bddcfde375253d54be396e6f8293f201a9a264a3014b4957647f5299a0c
+[2022-04-25 00:17:41,260] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ade27bddcfde375253d54be396e6f8293f201a9a264a3014b4957647f5299a0c
+[2022-04-25 00:17:41,294] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,294] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,295] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:e59b97c0f7a444feecca7bc3211731c6beecc0226de09f64e12e25d8397b20ed
+[2022-04-25 00:17:41,295] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:e59b97c0f7a444feecca7bc3211731c6beecc0226de09f64e12e25d8397b20ed
+[2022-04-25 00:17:41,338] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,338] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,339] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3b88549811e0730c52b7b926930c13c7d2a587f93eb75fc62249eee1e6a38c79
+[2022-04-25 00:17:41,339] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3b88549811e0730c52b7b926930c13c7d2a587f93eb75fc62249eee1e6a38c79
+[2022-04-25 00:17:41,376] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,376] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,377] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:88de7253831dc0d4e93f5d1d61aa4efc816aa76728ae0af2f5843e1b9d6b5936
+[2022-04-25 00:17:41,377] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:88de7253831dc0d4e93f5d1d61aa4efc816aa76728ae0af2f5843e1b9d6b5936
+[2022-04-25 00:17:41,412] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,412] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,413] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:01d6a7360a5777b91832ecc30873667096c63984a032b20a62f0cb097ad5d5e7
+[2022-04-25 00:17:41,413] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:01d6a7360a5777b91832ecc30873667096c63984a032b20a62f0cb097ad5d5e7
+[2022-04-25 00:17:41,451] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,451] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,451] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:7fa78f6ec2aa9f996fba937fae4a4f916b46b949fc28ed3aba0fb8ee0b1d3e85
+[2022-04-25 00:17:41,451] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:7fa78f6ec2aa9f996fba937fae4a4f916b46b949fc28ed3aba0fb8ee0b1d3e85
+[2022-04-25 00:17:41,489] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,489] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,490] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:388ba68a1415a876e9ed47520f16b950375c13a87383456fd9299bdd525184d5
+[2022-04-25 00:17:41,490] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:388ba68a1415a876e9ed47520f16b950375c13a87383456fd9299bdd525184d5
+[2022-04-25 00:17:41,528] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,528] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,528] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:4cc1dbcf641bc36862516db4e28e4bc7556a4996e720f9aaa23eb76d11253315
+[2022-04-25 00:17:41,528] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:4cc1dbcf641bc36862516db4e28e4bc7556a4996e720f9aaa23eb76d11253315
+[2022-04-25 00:17:41,566] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,566] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,566] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ab2b1c517bea4d8d905ea80cd13be04b960c04652679deb01b165bb238cae05e
+[2022-04-25 00:17:41,566] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ab2b1c517bea4d8d905ea80cd13be04b960c04652679deb01b165bb238cae05e
+[2022-04-25 00:17:41,601] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,601] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,602] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:95326aaf9cbe284989dfac2069338f5530aadbb1e3bd4781819efdf3086ef6f2
+[2022-04-25 00:17:41,602] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:95326aaf9cbe284989dfac2069338f5530aadbb1e3bd4781819efdf3086ef6f2
+[2022-04-25 00:17:41,637] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,637] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,637] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:e55f9a386f9437ad70e7331db233a36f4060dcdbc7d111797c652210bc721c8d
+[2022-04-25 00:17:41,637] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:e55f9a386f9437ad70e7331db233a36f4060dcdbc7d111797c652210bc721c8d
+[2022-04-25 00:17:41,674] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,674] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,674] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:df11ba0b48f13d307ab39eefc5c3ccb7a7e70acae3b4ee6226692609477e88b8
+[2022-04-25 00:17:41,674] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:df11ba0b48f13d307ab39eefc5c3ccb7a7e70acae3b4ee6226692609477e88b8
+[2022-04-25 00:17:41,713] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,713] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,713] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:7fdc7fed6a65754d63db2a11730306559c13aed59891ef24a75daddc96bcab88
+[2022-04-25 00:17:41,713] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:7fdc7fed6a65754d63db2a11730306559c13aed59891ef24a75daddc96bcab88
+[2022-04-25 00:17:41,748] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,748] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,749] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:a4dfc5af13ae6cae3eab8a48c9f1452bdacb11221aefebeb2af43b7a71c1aee0
+[2022-04-25 00:17:41,749] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:a4dfc5af13ae6cae3eab8a48c9f1452bdacb11221aefebeb2af43b7a71c1aee0
+[2022-04-25 00:17:41,785] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,785] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 00:17:41,786] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:661e0ff533c1167740efc830aff605abfc6d2a6b81a17eabdd4b3e51f2c36073
+[2022-04-25 00:17:41,786] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:661e0ff533c1167740efc830aff605abfc6d2a6b81a17eabdd4b3e51f2c36073
+[2022-04-25 03:10:33,342] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-04-25 03:11:04,045] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-04-25 03:13:29,866] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/asun/aal/code/DjangoBlog/blog/views.py changed, reloading.
+[2022-04-25 03:13:30,932] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-04-25 03:13:35,698] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-04-25 03:13:35,704] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-04-25 03:13:35,768] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-04-25 03:13:35,768] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-04-25 03:13:38,385] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-04-25 03:13:38,419] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,419] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,420] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:8e7be8a03208c1de0db391fb2995da28709c7c58f436e176f0608a9f72a10316
+[2022-04-25 03:13:38,420] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:8e7be8a03208c1de0db391fb2995da28709c7c58f436e176f0608a9f72a10316
+[2022-04-25 03:13:38,453] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,453] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,454] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:8bd814975b70bc44c02ee7be911baf4806632f46c0cc9b316b936a611bda02d3
+[2022-04-25 03:13:38,454] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:8bd814975b70bc44c02ee7be911baf4806632f46c0cc9b316b936a611bda02d3
+[2022-04-25 03:13:38,487] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,487] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,487] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:34250f1e3eccd7c79753f0b5df024035f1d99828e54fc9043ce3fb731c8e8aff
+[2022-04-25 03:13:38,487] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:34250f1e3eccd7c79753f0b5df024035f1d99828e54fc9043ce3fb731c8e8aff
+[2022-04-25 03:13:38,520] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,520] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,520] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:d911b399bae019e64187fe1833014c82f90e3bd345ab831b62fe8ee721920c20
+[2022-04-25 03:13:38,520] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:d911b399bae019e64187fe1833014c82f90e3bd345ab831b62fe8ee721920c20
+[2022-04-25 03:13:38,552] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,552] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,553] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:639053074def1824d0b0a48b67a2a3ef5b6b9ec4c16302953443f5b4832a6ce4
+[2022-04-25 03:13:38,553] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:639053074def1824d0b0a48b67a2a3ef5b6b9ec4c16302953443f5b4832a6ce4
+[2022-04-25 03:13:38,587] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,587] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,587] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:d1de56f4c1a87836a04578f3f983ec823ae4fb6c8839fda3a59f0a834659c2f9
+[2022-04-25 03:13:38,587] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:d1de56f4c1a87836a04578f3f983ec823ae4fb6c8839fda3a59f0a834659c2f9
+[2022-04-25 03:13:38,621] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,621] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,621] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:9238fe2016b4703d69ee4c0776c821e8e562121016ca5d4c421b954aa44c7df2
+[2022-04-25 03:13:38,621] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:9238fe2016b4703d69ee4c0776c821e8e562121016ca5d4c421b954aa44c7df2
+[2022-04-25 03:13:38,653] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,653] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,653] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:fcc4968cdc65be3e7d08148c722152e7606fe22ce2132393b9256c0df885b990
+[2022-04-25 03:13:38,653] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:fcc4968cdc65be3e7d08148c722152e7606fe22ce2132393b9256c0df885b990
+[2022-04-25 03:13:38,685] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,685] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,685] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:49943187f17aa13956a508550bfade0591dae2297ade0c4c993f5f839d8bc642
+[2022-04-25 03:13:38,685] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:49943187f17aa13956a508550bfade0591dae2297ade0c4c993f5f839d8bc642
+[2022-04-25 03:13:38,720] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,720] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,720] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:1dde63b50150068468547a705ed68551ca592c115707cee2d3c7c400fc997090
+[2022-04-25 03:13:38,720] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:1dde63b50150068468547a705ed68551ca592c115707cee2d3c7c400fc997090
+[2022-04-25 03:13:38,754] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,754] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,755] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:75180f44bc7193c8767e79e9ba3feab556f74d9ee3e99ee4a1a5b9d1b6fb3ed0
+[2022-04-25 03:13:38,755] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:75180f44bc7193c8767e79e9ba3feab556f74d9ee3e99ee4a1a5b9d1b6fb3ed0
+[2022-04-25 03:13:38,788] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,788] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,789] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:93dcb859add484abf813a0cf3ab1198048dcee670a08194e419d8f9672063644
+[2022-04-25 03:13:38,789] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:93dcb859add484abf813a0cf3ab1198048dcee670a08194e419d8f9672063644
+[2022-04-25 03:13:38,821] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,821] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,822] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:416d705f8359168e286218d208d0849949df899fd7e58bf83255e1db5f7b0976
+[2022-04-25 03:13:38,822] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:416d705f8359168e286218d208d0849949df899fd7e58bf83255e1db5f7b0976
+[2022-04-25 03:13:38,861] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,861] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,861] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:21d3b7d919ddc0eb40b6c84f761d926b8f1cc43d9488b733eaeecc9c32cc3e42
+[2022-04-25 03:13:38,861] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:21d3b7d919ddc0eb40b6c84f761d926b8f1cc43d9488b733eaeecc9c32cc3e42
+[2022-04-25 03:13:38,893] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,893] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,893] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:f87fff30865263b454bc064c2b81b3e09de4b097a76cae42fede5096009a72ab
+[2022-04-25 03:13:38,893] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:f87fff30865263b454bc064c2b81b3e09de4b097a76cae42fede5096009a72ab
+[2022-04-25 03:13:38,926] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,926] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,926] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:74887e79a3d2507721f12ee1e649bd8909cdf93357fbf6d8690eb89a981752c2
+[2022-04-25 03:13:38,926] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:74887e79a3d2507721f12ee1e649bd8909cdf93357fbf6d8690eb89a981752c2
+[2022-04-25 03:13:38,960] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,960] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,960] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:1c02635943ca97e45e2d88a6823b4e242823949a75395cc79297955013ea9f99
+[2022-04-25 03:13:38,960] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:1c02635943ca97e45e2d88a6823b4e242823949a75395cc79297955013ea9f99
+[2022-04-25 03:13:38,993] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,993] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:38,994] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:6c317e88b3e13b7694110a5cf4bff565f917d82ee38f3759c7cb76ddb0299c71
+[2022-04-25 03:13:38,994] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:6c317e88b3e13b7694110a5cf4bff565f917d82ee38f3759c7cb76ddb0299c71
+[2022-04-25 03:13:39,026] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:39,026] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:39,027] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:26e46170c826f56f34739ee29422ac2e1bd726635eff0ae26fad425c850d8ddc
+[2022-04-25 03:13:39,027] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:26e46170c826f56f34739ee29422ac2e1bd726635eff0ae26fad425c850d8ddc
+[2022-04-25 03:13:39,059] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:39,059] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:39,060] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:8879d20d3749195d9829d4377daa3aeef229c450ade44eb63840bb7716c5e252
+[2022-04-25 03:13:39,060] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:8879d20d3749195d9829d4377daa3aeef229c450ade44eb63840bb7716c5e252
+[2022-04-25 03:13:47,554] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-04-25 03:13:51,954] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-04-25 03:13:51,960] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-04-25 03:13:52,025] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-04-25 03:13:52,025] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-04-25 03:13:54,585] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-04-25 03:13:54,621] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,621] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,621] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3ee0fce21bad934ad2c4f6e9404fa0e5438415236d53b7e116cd59e0744e54c9
+[2022-04-25 03:13:54,621] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3ee0fce21bad934ad2c4f6e9404fa0e5438415236d53b7e116cd59e0744e54c9
+[2022-04-25 03:13:54,655] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,655] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,655] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:32b418122421503ba39bed7de832e6638e8456fd5626a03c9db822f4aa932a27
+[2022-04-25 03:13:54,655] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:32b418122421503ba39bed7de832e6638e8456fd5626a03c9db822f4aa932a27
+[2022-04-25 03:13:54,687] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,687] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,688] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:959d9af105ba9079ef9d15904a96f4e73947cef6f67e072357dd072bb82281ce
+[2022-04-25 03:13:54,688] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:959d9af105ba9079ef9d15904a96f4e73947cef6f67e072357dd072bb82281ce
+[2022-04-25 03:13:54,719] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,719] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,719] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:768817d17353f07b0624b98da20088f6e1698393cff7d3b6374339fe24484a0a
+[2022-04-25 03:13:54,719] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:768817d17353f07b0624b98da20088f6e1698393cff7d3b6374339fe24484a0a
+[2022-04-25 03:13:54,751] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,751] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,752] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:cc839b597746a176a11dfbd2a04660e799821d88cc6d96a5041d2d5c3ea97932
+[2022-04-25 03:13:54,752] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:cc839b597746a176a11dfbd2a04660e799821d88cc6d96a5041d2d5c3ea97932
+[2022-04-25 03:13:54,785] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,785] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,785] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:df3a5d15f3519a9fe46068d009b3b6fe2ee171e6c30a408d44f26c15afc76240
+[2022-04-25 03:13:54,785] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:df3a5d15f3519a9fe46068d009b3b6fe2ee171e6c30a408d44f26c15afc76240
+[2022-04-25 03:13:54,819] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,819] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,819] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:bbce076517433243f58943b342dffbc5750b9780958a45eef9a43b5f985a0e01
+[2022-04-25 03:13:54,819] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:bbce076517433243f58943b342dffbc5750b9780958a45eef9a43b5f985a0e01
+[2022-04-25 03:13:54,851] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,851] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,851] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:123a2364bec292e35428fbf5e0d912668880e3667f373b3c59f294b645cfdee0
+[2022-04-25 03:13:54,851] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:123a2364bec292e35428fbf5e0d912668880e3667f373b3c59f294b645cfdee0
+[2022-04-25 03:13:54,884] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,884] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,884] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:910be75ab3721b2a57a8c955d39eae210103de7cc8b9a6f9402b0ff1cbb42f1f
+[2022-04-25 03:13:54,884] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:910be75ab3721b2a57a8c955d39eae210103de7cc8b9a6f9402b0ff1cbb42f1f
+[2022-04-25 03:13:54,916] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,916] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,917] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:26134ba51d2fa1db342cd166833400bfd80111d6aab05176cac480e3dbbd611a
+[2022-04-25 03:13:54,917] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:26134ba51d2fa1db342cd166833400bfd80111d6aab05176cac480e3dbbd611a
+[2022-04-25 03:13:54,949] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,949] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,950] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:6674fce613b3a36944ca9d9dd86174375270db8299172193515f2be29871c147
+[2022-04-25 03:13:54,950] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:6674fce613b3a36944ca9d9dd86174375270db8299172193515f2be29871c147
+[2022-04-25 03:13:54,981] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,981] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:54,982] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:5ffdf6105cf818dc2278be16cdc153882692f03074974839d3c7051ae85c6584
+[2022-04-25 03:13:54,982] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:5ffdf6105cf818dc2278be16cdc153882692f03074974839d3c7051ae85c6584
+[2022-04-25 03:13:55,013] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,013] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,014] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:352709c38e9d123688fe93bf4d9038915dde94e5b09fb0e0d703d50d526d0848
+[2022-04-25 03:13:55,014] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:352709c38e9d123688fe93bf4d9038915dde94e5b09fb0e0d703d50d526d0848
+[2022-04-25 03:13:55,045] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,045] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,045] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:2bf3188a66c5bb6f60663bdbad15ac865a7d20b91c8600719ebacd0f196cff66
+[2022-04-25 03:13:55,045] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:2bf3188a66c5bb6f60663bdbad15ac865a7d20b91c8600719ebacd0f196cff66
+[2022-04-25 03:13:55,078] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,078] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,078] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3a63898fc228b4668bf390a624fe517a29a2beabefae945b7375b79571ede6a9
+[2022-04-25 03:13:55,078] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3a63898fc228b4668bf390a624fe517a29a2beabefae945b7375b79571ede6a9
+[2022-04-25 03:13:55,110] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,110] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,111] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ff91973936a83ce7b5f8dc18061c4e1a0a847ed5e74fd058f77f366db2406bfc
+[2022-04-25 03:13:55,111] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ff91973936a83ce7b5f8dc18061c4e1a0a847ed5e74fd058f77f366db2406bfc
+[2022-04-25 03:13:55,142] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,142] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,143] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:a2911bf43eaea9c2bcef6b25ddd0654c5fdd828cf0b69ab332a955cbcd4ca7fe
+[2022-04-25 03:13:55,143] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:a2911bf43eaea9c2bcef6b25ddd0654c5fdd828cf0b69ab332a955cbcd4ca7fe
+[2022-04-25 03:13:55,176] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,176] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,177] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:378e4a27874dfab0546181d0cab5f648bb0b5353a3efec4e5e3e5ad0a0130773
+[2022-04-25 03:13:55,177] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:378e4a27874dfab0546181d0cab5f648bb0b5353a3efec4e5e3e5ad0a0130773
+[2022-04-25 03:13:55,210] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,210] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,210] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:a37640c2f398a5af9963da178973fe4161de565a774fd874034cdaccf7a8ee32
+[2022-04-25 03:13:55,210] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:a37640c2f398a5af9963da178973fe4161de565a774fd874034cdaccf7a8ee32
+[2022-04-25 03:13:55,242] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,242] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:13:55,242] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:7739c7e977b4b91158af4fd198a24e03d47795c07bac0b3ec53cf12a58f89cbf
+[2022-04-25 03:13:55,242] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:7739c7e977b4b91158af4fd198a24e03d47795c07bac0b3ec53cf12a58f89cbf
+[2022-04-25 03:16:13,107] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/asun/aal/code/DjangoBlog/blog/views.py changed, reloading.
+[2022-04-25 03:16:14,058] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-04-25 03:16:17,060] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-04-25 03:16:17,066] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-04-25 03:16:17,135] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-04-25 03:16:17,135] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-04-25 03:16:17,632] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-04-25 03:16:17,669] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,669] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,669] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:893694aae447549ce207b06230cf2c327dc01669f8f49bd4188f672db072f77d
+[2022-04-25 03:16:17,669] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:893694aae447549ce207b06230cf2c327dc01669f8f49bd4188f672db072f77d
+[2022-04-25 03:16:17,704] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,704] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,704] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:2a8831a4cc7d58fa3aed1066604fdc06ed90ee8427123b99e9a24f9d3d21740e
+[2022-04-25 03:16:17,704] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:2a8831a4cc7d58fa3aed1066604fdc06ed90ee8427123b99e9a24f9d3d21740e
+[2022-04-25 03:16:17,739] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,739] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,740] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:e09bab1d739ef73ea38e8e6c81a70c140de8aa48aa005cc80de819a775023624
+[2022-04-25 03:16:17,740] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:e09bab1d739ef73ea38e8e6c81a70c140de8aa48aa005cc80de819a775023624
+[2022-04-25 03:16:17,772] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,772] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,773] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:6908fa88afca47cc786331c2566856a68bd67ea9af706adec79209a491078b38
+[2022-04-25 03:16:17,773] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:6908fa88afca47cc786331c2566856a68bd67ea9af706adec79209a491078b38
+[2022-04-25 03:16:17,810] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,810] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,810] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:045e43635e867864fda00cd41d9ecef100e34086de16c1010eafcbc9bbe3a218
+[2022-04-25 03:16:17,810] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:045e43635e867864fda00cd41d9ecef100e34086de16c1010eafcbc9bbe3a218
+[2022-04-25 03:16:17,843] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,843] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,843] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b55b21d9ec5ee364514fb1ceeb93cfc7d931f3739d4478ff5470872661aa82e7
+[2022-04-25 03:16:17,843] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b55b21d9ec5ee364514fb1ceeb93cfc7d931f3739d4478ff5470872661aa82e7
+[2022-04-25 03:16:17,878] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,878] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,878] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:65919110f64923441c496f4a00ad37dfed899b459b9f26ae889e6454a018493f
+[2022-04-25 03:16:17,878] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:65919110f64923441c496f4a00ad37dfed899b459b9f26ae889e6454a018493f
+[2022-04-25 03:16:17,911] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,911] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,911] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ec25f51600f61a4dbab960747d6d61e0dc9292271a050612a8f2bfc566f171b5
+[2022-04-25 03:16:17,911] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ec25f51600f61a4dbab960747d6d61e0dc9292271a050612a8f2bfc566f171b5
+[2022-04-25 03:16:17,944] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,944] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,944] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:401c96557d90d6a12f73952e7bbfa73be5c6f3533f89792fb814cbc0716f84e7
+[2022-04-25 03:16:17,944] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:401c96557d90d6a12f73952e7bbfa73be5c6f3533f89792fb814cbc0716f84e7
+[2022-04-25 03:16:17,977] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,977] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:17,977] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:50a3516af762f8a0f2b671af5380f8e8f9a07885c66f5115b2940e9bcaed9a54
+[2022-04-25 03:16:17,977] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:50a3516af762f8a0f2b671af5380f8e8f9a07885c66f5115b2940e9bcaed9a54
+[2022-04-25 03:16:18,011] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,011] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,011] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b21b53e927947de9a8ea84ba380086b16814beb3a3d0987979b53c503ec35b1c
+[2022-04-25 03:16:18,011] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b21b53e927947de9a8ea84ba380086b16814beb3a3d0987979b53c503ec35b1c
+[2022-04-25 03:16:18,044] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,044] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,044] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:c5939922e2ba785e4ef2ddc1eaf1facf8e4bcedbccad0f5a87eb005480ed6571
+[2022-04-25 03:16:18,044] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:c5939922e2ba785e4ef2ddc1eaf1facf8e4bcedbccad0f5a87eb005480ed6571
+[2022-04-25 03:16:18,081] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,081] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,082] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:02bc4caf19cee1fb0cee5f07c92869417faa7aa4ca183e6bf41523a1c4bab573
+[2022-04-25 03:16:18,082] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:02bc4caf19cee1fb0cee5f07c92869417faa7aa4ca183e6bf41523a1c4bab573
+[2022-04-25 03:16:18,119] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,119] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,119] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:f978bd6a4a07822bd728c2d19bdbf82e27ebd60a05fd66c5fb7232a36e66b471
+[2022-04-25 03:16:18,119] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:f978bd6a4a07822bd728c2d19bdbf82e27ebd60a05fd66c5fb7232a36e66b471
+[2022-04-25 03:16:18,154] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,154] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,154] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b85cad0fb356f91d74152fecfbe5b5f7e3fc3b1522b4cd3710063cafbdccc653
+[2022-04-25 03:16:18,154] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b85cad0fb356f91d74152fecfbe5b5f7e3fc3b1522b4cd3710063cafbdccc653
+[2022-04-25 03:16:18,187] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,187] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,187] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:206b869491a8829e718c25aaffcbb6505bd7c726f01f6a4af4497b9943db279e
+[2022-04-25 03:16:18,187] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:206b869491a8829e718c25aaffcbb6505bd7c726f01f6a4af4497b9943db279e
+[2022-04-25 03:16:18,222] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,222] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,222] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:c142a0f1a4ef4364a11c7f3ae7423294179c27b299a58f93fe4315d74317e463
+[2022-04-25 03:16:18,222] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:c142a0f1a4ef4364a11c7f3ae7423294179c27b299a58f93fe4315d74317e463
+[2022-04-25 03:16:18,259] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,259] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,260] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:8389d837f1c462e3d7231327e753949c10cff34c446e1ed3711dbee4f376a976
+[2022-04-25 03:16:18,260] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:8389d837f1c462e3d7231327e753949c10cff34c446e1ed3711dbee4f376a976
+[2022-04-25 03:16:18,295] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,295] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,295] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:5039f969e23225b8cd85564306184703d2a58ad6c77c911e8921088a09039940
+[2022-04-25 03:16:18,295] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:5039f969e23225b8cd85564306184703d2a58ad6c77c911e8921088a09039940
+[2022-04-25 03:16:18,331] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,331] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:16:18,332] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:d545b4baeb137ada18eb703870d4c190e810cd55cd9a76c00742525d945ba4b5
+[2022-04-25 03:16:18,332] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:d545b4baeb137ada18eb703870d4c190e810cd55cd9a76c00742525d945ba4b5
+[2022-04-25 03:16:24,238] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-04-25 03:16:50,043] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/asun/aal/code/DjangoBlog/blog/views.py changed, reloading.
+[2022-04-25 03:16:50,840] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-04-25 03:16:55,944] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/asun/aal/code/DjangoBlog/blog/views.py changed, reloading.
+[2022-04-25 03:16:56,666] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-04-25 03:17:06,245] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-04-25 03:17:10,893] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-04-25 03:17:10,900] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-04-25 03:17:10,963] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-04-25 03:17:10,963] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-04-25 03:17:11,460] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-04-25 03:17:11,495] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,495] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,496] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:2cf94e6c726ba7c8b7d692a89ef8ac9b44db93f6c1b5c8703b887a4adf8c4add
+[2022-04-25 03:17:11,496] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:2cf94e6c726ba7c8b7d692a89ef8ac9b44db93f6c1b5c8703b887a4adf8c4add
+[2022-04-25 03:17:11,531] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,531] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,531] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ee0482dbb4bfbefd775c7fd2c3885ed078c5bbebfe76fa37b37cdef3ec8a596c
+[2022-04-25 03:17:11,531] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:ee0482dbb4bfbefd775c7fd2c3885ed078c5bbebfe76fa37b37cdef3ec8a596c
+[2022-04-25 03:17:11,564] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,564] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,564] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:1ff144c908efe4fab76c961b98c157ef31fd035d86faba9ebf0f4237a263a6e4
+[2022-04-25 03:17:11,564] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:1ff144c908efe4fab76c961b98c157ef31fd035d86faba9ebf0f4237a263a6e4
+[2022-04-25 03:17:11,597] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,597] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,598] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b4632c63202a5e5e64fa6ee7fe3bb00057993d41d4b5eb005b9ffce0c6834bd0
+[2022-04-25 03:17:11,598] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b4632c63202a5e5e64fa6ee7fe3bb00057993d41d4b5eb005b9ffce0c6834bd0
+[2022-04-25 03:17:11,632] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,632] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,632] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3166779a2a01f0a8915ccc8829f09f69a72e2791c8515636fd0d9dff6398379b
+[2022-04-25 03:17:11,632] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3166779a2a01f0a8915ccc8829f09f69a72e2791c8515636fd0d9dff6398379b
+[2022-04-25 03:17:11,664] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,664] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,664] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b2330bfcd0158b76fc35d83c66964024103e2f3bf9a02e1a2c8d02b3db5db886
+[2022-04-25 03:17:11,664] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b2330bfcd0158b76fc35d83c66964024103e2f3bf9a02e1a2c8d02b3db5db886
+[2022-04-25 03:17:11,697] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,697] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,697] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:7c59552ed40b6d07cf926acfd2667651d9e043c4453cb091bd951f91a5c244fe
+[2022-04-25 03:17:11,697] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:7c59552ed40b6d07cf926acfd2667651d9e043c4453cb091bd951f91a5c244fe
+[2022-04-25 03:17:11,730] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,730] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,731] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:fbbd0b6c8c778c9035d6236809f2cb16f597fc67459e64678a52a9b957a8fbf5
+[2022-04-25 03:17:11,731] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:fbbd0b6c8c778c9035d6236809f2cb16f597fc67459e64678a52a9b957a8fbf5
+[2022-04-25 03:17:11,766] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,766] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,766] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:e3cf5fbdf12ad0ef65fd61dce306764580ce8d1c3ac31a83d060ff069ddb0a8d
+[2022-04-25 03:17:11,766] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:e3cf5fbdf12ad0ef65fd61dce306764580ce8d1c3ac31a83d060ff069ddb0a8d
+[2022-04-25 03:17:11,800] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,800] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,800] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:f1548e1e132b07f9473ba10cb088af3ee49ad5d0dd94c62a02a44a2372b78350
+[2022-04-25 03:17:11,800] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:f1548e1e132b07f9473ba10cb088af3ee49ad5d0dd94c62a02a44a2372b78350
+[2022-04-25 03:17:11,832] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,832] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,833] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3fdb92eec00b8c29f81704be3358e22865817619457e2733beeb1655f181b5bf
+[2022-04-25 03:17:11,833] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3fdb92eec00b8c29f81704be3358e22865817619457e2733beeb1655f181b5bf
+[2022-04-25 03:17:11,867] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,867] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,868] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:50f872cf199945f93dba262af25e6fb5a0c0e4b9dfad49060bd80eb296087ec9
+[2022-04-25 03:17:11,868] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:50f872cf199945f93dba262af25e6fb5a0c0e4b9dfad49060bd80eb296087ec9
+[2022-04-25 03:17:11,903] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,903] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,904] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b240680d775c093a0638923d0f47371777c2dc92e5585897089469cefb2b75c5
+[2022-04-25 03:17:11,904] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:b240680d775c093a0638923d0f47371777c2dc92e5585897089469cefb2b75c5
+[2022-04-25 03:17:11,937] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,937] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,937] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:bb2d3da66ec9c76c2ec5c4538106501ac467356374020eccad87888fb50d79f2
+[2022-04-25 03:17:11,937] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:bb2d3da66ec9c76c2ec5c4538106501ac467356374020eccad87888fb50d79f2
+[2022-04-25 03:17:11,970] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,970] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:11,970] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:a0d2d43e4ea7a908eda4177d8b09097885c14de56ca12bd6d6d70417bc335ff4
+[2022-04-25 03:17:11,970] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:a0d2d43e4ea7a908eda4177d8b09097885c14de56ca12bd6d6d70417bc335ff4
+[2022-04-25 03:17:12,002] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:12,002] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:12,002] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:a7a00b78649bd6b720b104920faa62945ae11a3a4316b2a539cab6c0a8363c25
+[2022-04-25 03:17:12,002] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:a7a00b78649bd6b720b104920faa62945ae11a3a4316b2a539cab6c0a8363c25
+[2022-04-25 03:17:12,035] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:12,035] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:12,035] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:acaf22bc1cc219214ff5d4abfc2c0fa1e3eaf0454c580bd51fa48fd1f26224b2
+[2022-04-25 03:17:12,035] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:acaf22bc1cc219214ff5d4abfc2c0fa1e3eaf0454c580bd51fa48fd1f26224b2
+[2022-04-25 03:17:12,067] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:12,067] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:12,067] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:2d8a043d9b822f6bcc5c3a582dd312d663add0c3a3bedcb97284ca4d629853b6
+[2022-04-25 03:17:12,067] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:2d8a043d9b822f6bcc5c3a582dd312d663add0c3a3bedcb97284ca4d629853b6
+[2022-04-25 03:17:12,100] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:12,100] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:12,100] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:1fa6337d4b3fb831365012888e3731c2e078ae4295ba765a5c55790bad3ba385
+[2022-04-25 03:17:12,100] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:1fa6337d4b3fb831365012888e3731c2e078ae4295ba765a5c55790bad3ba385
+[2022-04-25 03:17:12,132] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:12,132] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-04-25 03:17:12,132] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:c929f789b714f5db2de7ff60ac2ebd8d93db328c5833ba1572f5724b67a0ff40
+[2022-04-25 03:17:12,132] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:c929f789b714f5db2de7ff60ac2ebd8d93db328c5833ba1572f5724b67a0ff40
