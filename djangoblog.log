@@ -667,3 +667,912 @@
 [2022-04-25 03:17:12,132] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
 [2022-04-25 03:17:12,132] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:c929f789b714f5db2de7ff60ac2ebd8d93db328c5833ba1572f5724b67a0ff40
 [2022-04-25 03:17:12,132] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:c929f789b714f5db2de7ff60ac2ebd8d93db328c5833ba1572f5724b67a0ff40
+[2022-05-05 08:46:26,475] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-05 08:46:40,275] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-05 08:46:40,290] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-05 08:46:40,458] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-05-05 08:46:40,458] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-05-05 08:46:41,618] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-05 08:46:41,706] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:41,706] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:41,708] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:1111477cbdce1493eb2ba49e923d934ab1c825aadfdd0d680ee675c8eddef813
+[2022-05-05 08:46:41,708] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:1111477cbdce1493eb2ba49e923d934ab1c825aadfdd0d680ee675c8eddef813
+[2022-05-05 08:46:41,803] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:41,803] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:41,805] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:eaad84e255d3f1434276f3d24fd41faefc2353d108cf93dbb045cfc5f12310b3
+[2022-05-05 08:46:41,805] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:eaad84e255d3f1434276f3d24fd41faefc2353d108cf93dbb045cfc5f12310b3
+[2022-05-05 08:46:41,897] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:41,897] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:41,898] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:58c85776203e3706b02f73640db90146640cc93cad3e4d08440e15116c6e50fd
+[2022-05-05 08:46:41,898] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:58c85776203e3706b02f73640db90146640cc93cad3e4d08440e15116c6e50fd
+[2022-05-05 08:46:41,984] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:41,984] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:41,985] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3087702370a2b96a692ce3e80a33c88b0e7b0d77d20b0fc7b96f6b449e1a850d
+[2022-05-05 08:46:41,985] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3087702370a2b96a692ce3e80a33c88b0e7b0d77d20b0fc7b96f6b449e1a850d
+[2022-05-05 08:46:42,069] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,069] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,069] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:98e7d4611c92fd66f41caf75e5586859112ae6c6cf6ffb1ddefd17bdb1ff20b9
+[2022-05-05 08:46:42,069] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:98e7d4611c92fd66f41caf75e5586859112ae6c6cf6ffb1ddefd17bdb1ff20b9
+[2022-05-05 08:46:42,154] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,154] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,154] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:c12a9d0d0284898b0da104a15638881d9de2878a22f90bff3f04d0e86630f46a
+[2022-05-05 08:46:42,154] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:c12a9d0d0284898b0da104a15638881d9de2878a22f90bff3f04d0e86630f46a
+[2022-05-05 08:46:42,241] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,241] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,242] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:eb552c49946624fef0445a5a5de699695830cdffff70cb2ad396998891e00981
+[2022-05-05 08:46:42,242] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:eb552c49946624fef0445a5a5de699695830cdffff70cb2ad396998891e00981
+[2022-05-05 08:46:42,330] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,330] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,331] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:8eb5aed8a1d3a6530b55511dfc9b14a908216e889f6697bb92a946f087f39462
+[2022-05-05 08:46:42,331] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:8eb5aed8a1d3a6530b55511dfc9b14a908216e889f6697bb92a946f087f39462
+[2022-05-05 08:46:42,426] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,426] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,428] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:19761ea78558a4cdcf6a81bbc00cfaedbae20a65eff54bceadf4ea415fa41383
+[2022-05-05 08:46:42,428] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:19761ea78558a4cdcf6a81bbc00cfaedbae20a65eff54bceadf4ea415fa41383
+[2022-05-05 08:46:42,522] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,522] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,523] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:fb4843e33d97b7ed61f8513c4806a9c4ac211a0bbb93330670ab4c8fc02d89a1
+[2022-05-05 08:46:42,523] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:fb4843e33d97b7ed61f8513c4806a9c4ac211a0bbb93330670ab4c8fc02d89a1
+[2022-05-05 08:46:42,613] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,613] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,614] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:4d1e118164c840246bd92397118c41c2150e3fa8fc7422246df3512c2170d8a3
+[2022-05-05 08:46:42,614] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:4d1e118164c840246bd92397118c41c2150e3fa8fc7422246df3512c2170d8a3
+[2022-05-05 08:46:42,702] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,702] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,703] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:97a342c2decb0451775a15cf4936256987377e9220cbae8291811aef743f8ae6
+[2022-05-05 08:46:42,703] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:97a342c2decb0451775a15cf4936256987377e9220cbae8291811aef743f8ae6
+[2022-05-05 08:46:42,790] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,790] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,791] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:8ad37c3268ffd21c3c7cec1ce678bd5dcc3d6cb8851a1aa6eb3a8d7d2e35b834
+[2022-05-05 08:46:42,791] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:8ad37c3268ffd21c3c7cec1ce678bd5dcc3d6cb8851a1aa6eb3a8d7d2e35b834
+[2022-05-05 08:46:42,885] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,885] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,887] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:627e18cfa9f6b718d05995ca623e219512a0b84978472ae810f7b8d41d569e4a
+[2022-05-05 08:46:42,887] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:627e18cfa9f6b718d05995ca623e219512a0b84978472ae810f7b8d41d569e4a
+[2022-05-05 08:46:42,976] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,976] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:42,978] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3dfce6189e287cb7f675b47d47af7589c7d5d13e0a59f34a43758cc9aec80fc2
+[2022-05-05 08:46:42,978] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:3dfce6189e287cb7f675b47d47af7589c7d5d13e0a59f34a43758cc9aec80fc2
+[2022-05-05 08:46:43,063] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:43,063] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:43,064] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:0034b90c884a7a0f5e75afee05e0a2cd7040b894c5ea425cde4e0571fbf086f8
+[2022-05-05 08:46:43,064] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:0034b90c884a7a0f5e75afee05e0a2cd7040b894c5ea425cde4e0571fbf086f8
+[2022-05-05 08:46:43,150] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:43,150] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:43,156] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:da6c6febd50a46dcf20e568cf29db7297a6270e33e6510f4810378104540a859
+[2022-05-05 08:46:43,156] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:da6c6febd50a46dcf20e568cf29db7297a6270e33e6510f4810378104540a859
+[2022-05-05 08:46:43,244] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:43,244] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:43,245] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:5d04bfe775c3275da81e3d0abd8a9df799f4d1af9780cbdc10c427f7107d7e40
+[2022-05-05 08:46:43,245] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:5d04bfe775c3275da81e3d0abd8a9df799f4d1af9780cbdc10c427f7107d7e40
+[2022-05-05 08:46:43,337] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:43,337] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:43,339] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:39beeabcdf57b3d8c25681dc2aa792f2a6375d8f8d642e544121cf1f65ac6a5b
+[2022-05-05 08:46:43,339] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:39beeabcdf57b3d8c25681dc2aa792f2a6375d8f8d642e544121cf1f65ac6a5b
+[2022-05-05 08:46:43,426] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:43,426] WARNING [djangoblog.utils.news:38 utils] 'Tag' object has no attribute 'get_cache_key'
+[2022-05-05 08:46:43,427] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:a3c6f9764fefc61895758f3c3d5030929cd2a58403981b763990d5a0c02bcea3
+[2022-05-05 08:46:43,427] INFO [djangoblog.utils.news:53 utils] cache_decorator set cache:get_article_count key:a3c6f9764fefc61895758f3c3d5030929cd2a58403981b763990d5a0c02bcea3
+[2022-05-05 08:49:26,460] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 08:49:29,483] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 08:50:13,842] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 08:50:14,978] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 08:57:19,850] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/djangoblog/utils.py changed, reloading.
+[2022-05-05 08:57:20,404] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-05 08:57:27,746] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-05 08:57:27,764] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-05 08:57:27,952] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-05-05 08:57:27,952] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-05-05 09:00:13,752] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 09:00:14,745] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 09:00:15,487] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 09:00:15,895] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 09:00:19,857] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/djangoblog/utils.py changed, reloading.
+[2022-05-05 09:00:20,401] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-05 09:00:33,910] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-05 09:00:33,937] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-05 09:00:34,271] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-05-05 09:00:34,271] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-05-05 09:02:45,931] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 09:02:46,683] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 09:02:46,861] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 09:02:47,031] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 09:02:47,201] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 09:02:47,384] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 09:02:56,817] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 09:03:00,873] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/djangoblog/utils.py changed, reloading.
+[2022-05-05 09:03:01,386] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-05 09:03:12,641] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-05 09:03:18,232] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-05 09:03:18,251] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-05 09:03:18,448] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-05-05 09:03:18,448] INFO [djangoblog.utils.get_blog_setting:168 utils] set cache get_blog_setting
+[2022-05-05 09:03:21,557] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-05 09:04:44,451] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/djangoblog/utils.py changed, reloading.
+[2022-05-05 09:04:44,876] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-05 09:08:09,795] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-06 01:11:33,550] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-06 07:50:36,582] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-06 07:50:46,563] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-06 07:50:46,572] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-06 07:50:46,734] INFO [djangoblog.utils.get_blog_setting:169 utils] set cache get_blog_setting
+[2022-05-06 07:50:46,734] INFO [djangoblog.utils.get_blog_setting:169 utils] set cache get_blog_setting
+[2022-05-06 07:52:03,108] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 07:52:04,252] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 07:52:04,984] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 07:52:05,225] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 07:52:05,408] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 07:52:05,668] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 07:52:05,925] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 07:52:09,054] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 07:52:09,573] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 07:52:52,112] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 07:52:52,772] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 07:52:52,959] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 07:52:53,126] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 07:56:46,930] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 07:56:47,703] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 08:03:04,999] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 08:03:06,402] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 08:03:07,060] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 08:10:51,559] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 08:10:53,477] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 08:11:08,341] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-06 08:11:15,502] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-06 08:11:15,507] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-06 08:11:15,673] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-06 08:11:15,673] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-06 08:21:08,722] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:archives
+[2022-05-06 08:21:08,727] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-06 08:21:08,809] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:bedf0a14dfb6bbf31fd4868a8d31f6de0301c4d11780b40314193c1f7688c02a
+[2022-05-06 08:21:08,809] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:bedf0a14dfb6bbf31fd4868a8d31f6de0301c4d11780b40314193c1f7688c02a
+[2022-05-06 08:21:08,927] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c5aeb7d64bea4b7f46c5d894894bc9bb96c8a9d610ea92c21d0bd080aeb26fcb
+[2022-05-06 08:21:08,927] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c5aeb7d64bea4b7f46c5d894894bc9bb96c8a9d610ea92c21d0bd080aeb26fcb
+[2022-05-06 08:21:09,051] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:151f2a7f0825ec8e4badee8588855042b87a6b618f3863918d14e91496984067
+[2022-05-06 08:21:09,051] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:151f2a7f0825ec8e4badee8588855042b87a6b618f3863918d14e91496984067
+[2022-05-06 08:21:09,167] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:b91202ba08f1b1b69e54e59b778b34368836ec3501f6ed5350722d6bf019cb23
+[2022-05-06 08:21:09,167] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:b91202ba08f1b1b69e54e59b778b34368836ec3501f6ed5350722d6bf019cb23
+[2022-05-06 08:21:09,257] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:776cc8f7b2bfc1dfec6d2e310857f2d019a370c0e993f660ce211e584fb3ec8d
+[2022-05-06 08:21:09,257] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:776cc8f7b2bfc1dfec6d2e310857f2d019a370c0e993f660ce211e584fb3ec8d
+[2022-05-06 08:21:09,348] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:b126bf1e6266c1649a8ac1057e470eecbc6a51ddb9b5854dda4bb514bef2f636
+[2022-05-06 08:21:09,348] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:b126bf1e6266c1649a8ac1057e470eecbc6a51ddb9b5854dda4bb514bef2f636
+[2022-05-06 08:21:09,432] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1d8cbbdbb1a94c6955e5fa2ff183303d24e03ab07231b26a0cd3b2970fb3b9cd
+[2022-05-06 08:21:09,432] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1d8cbbdbb1a94c6955e5fa2ff183303d24e03ab07231b26a0cd3b2970fb3b9cd
+[2022-05-06 08:21:09,519] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:f532cb0a513cd2a88a65906841a9e663f6a1ea9936834b42b050aaa7c497f4ea
+[2022-05-06 08:21:09,519] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:f532cb0a513cd2a88a65906841a9e663f6a1ea9936834b42b050aaa7c497f4ea
+[2022-05-06 08:21:09,611] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3e96b0432b49ea8de8c2272a5ac3d7c3f77f8c702f4b58ff724b9f9fa8cb43cd
+[2022-05-06 08:21:09,611] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3e96b0432b49ea8de8c2272a5ac3d7c3f77f8c702f4b58ff724b9f9fa8cb43cd
+[2022-05-06 08:21:09,698] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:98db9e0d56ac03fa9a6f076bab11013cc63517ea6195537ad2b1f8459ac06878
+[2022-05-06 08:21:09,698] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:98db9e0d56ac03fa9a6f076bab11013cc63517ea6195537ad2b1f8459ac06878
+[2022-05-06 08:21:09,784] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:07c391d93262bdb27a19999e31a40ec5ca707616edc79cf5c96644df5df25215
+[2022-05-06 08:21:09,784] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:07c391d93262bdb27a19999e31a40ec5ca707616edc79cf5c96644df5df25215
+[2022-05-06 08:21:09,869] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:ef821f23b27259e2406a1e47d8d4f8932ab41e974f115be776da0323777386ca
+[2022-05-06 08:21:09,869] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:ef821f23b27259e2406a1e47d8d4f8932ab41e974f115be776da0323777386ca
+[2022-05-06 08:21:09,958] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:56448c2765c2f72a926dcab8a39f2d1279f581d6653ee2923aff1a8a42af19ee
+[2022-05-06 08:21:09,958] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:56448c2765c2f72a926dcab8a39f2d1279f581d6653ee2923aff1a8a42af19ee
+[2022-05-06 08:21:10,059] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:be7876428041f562a97c50c72281d26fd5df1fe202a2d01d51ddf40b86bdfb60
+[2022-05-06 08:21:10,059] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:be7876428041f562a97c50c72281d26fd5df1fe202a2d01d51ddf40b86bdfb60
+[2022-05-06 08:21:10,146] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:dfbbe2480cf339177a8f13236cc4d9268a0bdb7003c6b225d81c6bd88ee59876
+[2022-05-06 08:21:10,146] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:dfbbe2480cf339177a8f13236cc4d9268a0bdb7003c6b225d81c6bd88ee59876
+[2022-05-06 08:21:10,233] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1200cee6902e301ba70e1c70759fde0b478c037dfc729fec01dfe7a15bc8a294
+[2022-05-06 08:21:10,233] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1200cee6902e301ba70e1c70759fde0b478c037dfc729fec01dfe7a15bc8a294
+[2022-05-06 08:21:10,322] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9ab0b2edfc21a0130650324601177f9e8e4c9ab914575b0b0e1280d107291386
+[2022-05-06 08:21:10,322] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9ab0b2edfc21a0130650324601177f9e8e4c9ab914575b0b0e1280d107291386
+[2022-05-06 08:21:10,410] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:552eb986df14c59b207bf469390e3b2c0a60ca5feee9066b1df37b7b31ace5dc
+[2022-05-06 08:21:10,410] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:552eb986df14c59b207bf469390e3b2c0a60ca5feee9066b1df37b7b31ace5dc
+[2022-05-06 08:21:10,497] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1454afdba306076c8dcdede6c2529ff12cadbca49c76e07f729a845bb8e5ecc7
+[2022-05-06 08:21:10,497] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1454afdba306076c8dcdede6c2529ff12cadbca49c76e07f729a845bb8e5ecc7
+[2022-05-06 08:21:10,590] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:75c160a1aada7961a282723501169158bf9f5e8b6410a068241d8c80f0c8dc54
+[2022-05-06 08:21:10,590] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:75c160a1aada7961a282723501169158bf9f5e8b6410a068241d8c80f0c8dc54
+[2022-05-06 08:24:05,232] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 08:27:12,905] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 08:27:17,843] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 08:27:44,629] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-06 08:28:01,827] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-06 08:28:01,851] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-06 08:28:02,046] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-06 08:28:02,046] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-06 08:41:14,060] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 08:41:14,962] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 08:41:15,744] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 08:41:16,277] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-06 08:41:34,201] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-06 08:41:34,294] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:609b37c617b41ac9def78685aad30e054da15c051069f6b2695f37e3b4a1dede
+[2022-05-06 08:41:34,294] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:609b37c617b41ac9def78685aad30e054da15c051069f6b2695f37e3b4a1dede
+[2022-05-06 08:41:34,386] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:0a54be99dfbb7c0445ab9517ebe8a94dc41cfe14c1d33763ffef47027a9c91b3
+[2022-05-06 08:41:34,386] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:0a54be99dfbb7c0445ab9517ebe8a94dc41cfe14c1d33763ffef47027a9c91b3
+[2022-05-06 08:41:34,477] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3ab67fd7b83f71f4981e3fc8f52fce7d5d619ed3cb99f972895788aebfefd638
+[2022-05-06 08:41:34,477] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3ab67fd7b83f71f4981e3fc8f52fce7d5d619ed3cb99f972895788aebfefd638
+[2022-05-06 08:41:34,571] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:31c0d84839cef037016de1c9b4f060addad1d9f456db87db242c2f7cb5c4459c
+[2022-05-06 08:41:34,571] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:31c0d84839cef037016de1c9b4f060addad1d9f456db87db242c2f7cb5c4459c
+[2022-05-06 08:41:34,657] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:eb7cbaf39c9d2cae5b51c3f9b4c91bc320942327b7f8a603b5231a0a0e12bd1e
+[2022-05-06 08:41:34,657] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:eb7cbaf39c9d2cae5b51c3f9b4c91bc320942327b7f8a603b5231a0a0e12bd1e
+[2022-05-06 08:41:34,748] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c3af26dcaec8a461b05593a8d951dde039e1ff826e3c421c86665d03dff2a933
+[2022-05-06 08:41:34,748] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c3af26dcaec8a461b05593a8d951dde039e1ff826e3c421c86665d03dff2a933
+[2022-05-06 08:41:34,838] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:44baec3a1c9bf14ca636002d03474c3151e3082036829da1b966578d1599edc9
+[2022-05-06 08:41:34,838] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:44baec3a1c9bf14ca636002d03474c3151e3082036829da1b966578d1599edc9
+[2022-05-06 08:41:34,930] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:061a612905557fb1407bc02e663ce1960afd70cf116c2b447bef0fcdd1f53c41
+[2022-05-06 08:41:34,930] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:061a612905557fb1407bc02e663ce1960afd70cf116c2b447bef0fcdd1f53c41
+[2022-05-06 08:41:35,023] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a1e9e6326b2eceb5b172f219ff9abe3e71b65b6da3343edce1e6e809e514ac84
+[2022-05-06 08:41:35,023] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a1e9e6326b2eceb5b172f219ff9abe3e71b65b6da3343edce1e6e809e514ac84
+[2022-05-06 08:41:35,110] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1caf036a611e537a3c5694b96bf2b5683af91c5600459b181e455d036fd38d61
+[2022-05-06 08:41:35,110] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1caf036a611e537a3c5694b96bf2b5683af91c5600459b181e455d036fd38d61
+[2022-05-06 08:41:35,198] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:6e7b480073088999b5c5d99ae126f787c79d7aa0cf4d30ef6d81a3eeaa29f915
+[2022-05-06 08:41:35,198] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:6e7b480073088999b5c5d99ae126f787c79d7aa0cf4d30ef6d81a3eeaa29f915
+[2022-05-06 08:41:35,288] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:fa58df58e06b4deb4ae25508933f7419cc0a24fa011a4a81730cb12bd13007ac
+[2022-05-06 08:41:35,288] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:fa58df58e06b4deb4ae25508933f7419cc0a24fa011a4a81730cb12bd13007ac
+[2022-05-06 08:41:35,376] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:120a479b4bf39b6eb9b511fad8ab577663965275c471501df165c317dc3e46b1
+[2022-05-06 08:41:35,376] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:120a479b4bf39b6eb9b511fad8ab577663965275c471501df165c317dc3e46b1
+[2022-05-06 08:41:35,464] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:432112c0ecd6512f4a5ed35f5a3a81a5e35e4dd32fea63990a33c96bf28011a3
+[2022-05-06 08:41:35,464] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:432112c0ecd6512f4a5ed35f5a3a81a5e35e4dd32fea63990a33c96bf28011a3
+[2022-05-06 08:41:35,557] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1c5731d7dd57ff83f24701c2da399cbe5ac18f8bf67b9bc70cad807efd2497c3
+[2022-05-06 08:41:35,557] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1c5731d7dd57ff83f24701c2da399cbe5ac18f8bf67b9bc70cad807efd2497c3
+[2022-05-06 08:41:35,647] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a9aaba13d524c7ade0a4464834167f9d9bbed01429f91fc624eefb0179023bb4
+[2022-05-06 08:41:35,647] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a9aaba13d524c7ade0a4464834167f9d9bbed01429f91fc624eefb0179023bb4
+[2022-05-06 08:41:35,736] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:dd4b2a6db14e73878b3153976672be796303763e25f0ec526540b7e47a596246
+[2022-05-06 08:41:35,736] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:dd4b2a6db14e73878b3153976672be796303763e25f0ec526540b7e47a596246
+[2022-05-06 08:41:35,821] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:fa0572b7944ea8746fa15c91bc02400e4d5087a51fb1e5d15ac26280512c6c1f
+[2022-05-06 08:41:35,821] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:fa0572b7944ea8746fa15c91bc02400e4d5087a51fb1e5d15ac26280512c6c1f
+[2022-05-06 08:41:35,910] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:409b52a1e0790ca74ab3645dfc53d68838837d2a78a8426e8dfdd61331f64146
+[2022-05-06 08:41:35,910] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:409b52a1e0790ca74ab3645dfc53d68838837d2a78a8426e8dfdd61331f64146
+[2022-05-06 08:41:35,997] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9ae0ce8b02f6f9d206082c89444582202bdaafec70de68ec6779af18d9d8c35d
+[2022-05-06 08:41:35,997] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9ae0ce8b02f6f9d206082c89444582202bdaafec70de68ec6779af18d9d8c35d
+[2022-05-07 12:42:06,253] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-07 12:42:18,554] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-07 12:42:18,558] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-07 12:42:18,732] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-07 12:42:18,732] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-07 12:43:14,556] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/views.py changed, reloading.
+[2022-05-07 12:43:15,068] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-07 12:43:23,766] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-07 12:43:23,788] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-07 12:43:23,963] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-07 12:43:23,963] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-07 13:06:54,306] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-07 13:06:54,399] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:bbf3bdc3e1d1aa1795b437d188d5ed29ee93aa831f3ca9173cb614a3b31d8f78
+[2022-05-07 13:06:54,399] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:bbf3bdc3e1d1aa1795b437d188d5ed29ee93aa831f3ca9173cb614a3b31d8f78
+[2022-05-07 13:06:54,487] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:daf10bc631c22b8facce91cb55f696290399960aa9aa71899f8465789ebdec6e
+[2022-05-07 13:06:54,487] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:daf10bc631c22b8facce91cb55f696290399960aa9aa71899f8465789ebdec6e
+[2022-05-07 13:06:54,574] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9588f35a930d7c7a0da0b8483e3816ac3321b6bbb30f0ca3547c2cf2223f34da
+[2022-05-07 13:06:54,574] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9588f35a930d7c7a0da0b8483e3816ac3321b6bbb30f0ca3547c2cf2223f34da
+[2022-05-07 13:06:54,666] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:e19f145d77587c1d397872cd10ed0897ce744ba8cf3e439ee4ebb8bf5b28d3e1
+[2022-05-07 13:06:54,666] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:e19f145d77587c1d397872cd10ed0897ce744ba8cf3e439ee4ebb8bf5b28d3e1
+[2022-05-07 13:06:54,754] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:ee435f0caad923db44536f2236e43e68adbae1e9fea50112b46c48e3265f7b43
+[2022-05-07 13:06:54,754] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:ee435f0caad923db44536f2236e43e68adbae1e9fea50112b46c48e3265f7b43
+[2022-05-07 13:06:54,843] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d90fe586baee6d596d8227d07f9f80f87b189cc78a5c8a29988a77d4f2cc42a1
+[2022-05-07 13:06:54,843] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d90fe586baee6d596d8227d07f9f80f87b189cc78a5c8a29988a77d4f2cc42a1
+[2022-05-07 13:06:54,931] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:37bb1387e7387608a44c2ba55971f07a737ea94e3f85d7722409578440cae6e3
+[2022-05-07 13:06:54,931] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:37bb1387e7387608a44c2ba55971f07a737ea94e3f85d7722409578440cae6e3
+[2022-05-07 13:06:55,020] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:27c6f1630c4654f59c9604a1c4bdd37eddf2a4e58db2927dc2619a49ad515ca0
+[2022-05-07 13:06:55,020] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:27c6f1630c4654f59c9604a1c4bdd37eddf2a4e58db2927dc2619a49ad515ca0
+[2022-05-07 13:06:55,108] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:89d376b31180a8894978c281c94cb45d474ea7943f2e53a8441c9e17c9c2a2b8
+[2022-05-07 13:06:55,108] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:89d376b31180a8894978c281c94cb45d474ea7943f2e53a8441c9e17c9c2a2b8
+[2022-05-07 13:06:55,195] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a9f2feabe0b4299c8172d239b4274750e8ad6c7c2384d79454d53f74d4eb2a8a
+[2022-05-07 13:06:55,195] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a9f2feabe0b4299c8172d239b4274750e8ad6c7c2384d79454d53f74d4eb2a8a
+[2022-05-07 13:06:55,281] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c74d005be67e8e11ef86a1e8f0f8ebf4eab99bcf892c1e0413b3b1987872105c
+[2022-05-07 13:06:55,281] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c74d005be67e8e11ef86a1e8f0f8ebf4eab99bcf892c1e0413b3b1987872105c
+[2022-05-07 13:06:55,364] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:ccebe20c8ea55fe8db44907a35503aff37d9b9fe96205d81764920b7e33091d6
+[2022-05-07 13:06:55,364] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:ccebe20c8ea55fe8db44907a35503aff37d9b9fe96205d81764920b7e33091d6
+[2022-05-07 13:06:55,451] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:8f6bac6f7662f3a30d84afe4424b3699aee05e0d9a34a75f870dbda1301c8b54
+[2022-05-07 13:06:55,451] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:8f6bac6f7662f3a30d84afe4424b3699aee05e0d9a34a75f870dbda1301c8b54
+[2022-05-07 13:06:55,538] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:21b11d9fe6a477be543b0b1f93d3a8dbac99256d761a077390b0ef8af7837c9c
+[2022-05-07 13:06:55,538] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:21b11d9fe6a477be543b0b1f93d3a8dbac99256d761a077390b0ef8af7837c9c
+[2022-05-07 13:06:55,625] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5a04822330160c98d225067fa1c18deead3efda31136d74084cacbe88557b689
+[2022-05-07 13:06:55,625] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5a04822330160c98d225067fa1c18deead3efda31136d74084cacbe88557b689
+[2022-05-07 13:06:55,715] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:cbbc218b7b214b5da5de68154f3d0764e130418e85db538872bb5707d133999a
+[2022-05-07 13:06:55,715] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:cbbc218b7b214b5da5de68154f3d0764e130418e85db538872bb5707d133999a
+[2022-05-07 13:06:55,811] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4bb1c1af6f90371ebf8fa98459167dbc3e44027e891dd4e6a162fc1570686f6c
+[2022-05-07 13:06:55,811] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4bb1c1af6f90371ebf8fa98459167dbc3e44027e891dd4e6a162fc1570686f6c
+[2022-05-07 13:06:55,895] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:780a85428f40579dc201197b984ae546d80483c1632bde6908594b5e61a23abe
+[2022-05-07 13:06:55,895] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:780a85428f40579dc201197b984ae546d80483c1632bde6908594b5e61a23abe
+[2022-05-07 13:06:55,984] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:21763587136f820e12958781336871e87d6e03f8d8671aeec87cbb0fe8880ff9
+[2022-05-07 13:06:55,984] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:21763587136f820e12958781336871e87d6e03f8d8671aeec87cbb0fe8880ff9
+[2022-05-07 13:06:56,072] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:227b975bc52ff10ffa8f7c74acc19ad8d296f22b29bb56ae4e74794f04e8df1f
+[2022-05-07 13:06:56,072] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:227b975bc52ff10ffa8f7c74acc19ad8d296f22b29bb56ae4e74794f04e8df1f
+[2022-05-07 13:14:11,463] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_sub_categorys key:6f3d89362918a1dc0bdc11e2eea157f2b76ed68dd4c1a7946e8b6a560f7a61f9
+[2022-05-07 13:14:11,463] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_sub_categorys key:6f3d89362918a1dc0bdc11e2eea157f2b76ed68dd4c1a7946e8b6a560f7a61f9
+[2022-05-07 13:14:11,718] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:category_list_我是父类目_1
+[2022-05-07 13:14:16,248] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:archives
+[2022-05-07 13:14:36,345] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:47160847853901fe533eadb810e5519a42833a2d7cf288870ed3a497cf1d8dc2
+[2022-05-07 13:14:36,345] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:47160847853901fe533eadb810e5519a42833a2d7cf288870ed3a497cf1d8dc2
+[2022-05-07 13:14:38,089] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":100000,"success":0,"not_same_site":["https://example.com/author/aal_hui.html"]}
+[2022-05-07 13:14:38,089] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":100000,"success":0,"not_same_site":["https://example.com/author/aal_hui.html"]}
+[2022-05-07 13:14:38,094] INFO [djangoblog.blog_signals.user_auth_callback:120 blog_signals] abc@123.com
+[2022-05-07 13:14:38,094] INFO [djangoblog.blog_signals.user_auth_callback:120 blog_signals] abc@123.com
+[2022-05-07 13:14:38,094] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebari
+[2022-05-07 13:14:38,094] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebari
+[2022-05-07 13:14:38,095] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarl
+[2022-05-07 13:14:38,095] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarl
+[2022-05-07 13:14:38,095] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarp
+[2022-05-07 13:14:38,095] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarp
+[2022-05-07 13:14:38,096] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebara
+[2022-05-07 13:14:38,096] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebara
+[2022-05-07 13:14:38,097] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebars
+[2022-05-07 13:14:38,097] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebars
+[2022-05-07 13:14:39,405] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-07 13:14:39,617] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-07 13:14:39,617] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-07 13:15:01,910] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:47160847853901fe533eadb810e5519a42833a2d7cf288870ed3a497cf1d8dc2
+[2022-05-07 13:15:01,910] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:47160847853901fe533eadb810e5519a42833a2d7cf288870ed3a497cf1d8dc2
+[2022-05-07 13:19:58,225] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:47160847853901fe533eadb810e5519a42833a2d7cf288870ed3a497cf1d8dc2
+[2022-05-07 13:19:58,225] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:47160847853901fe533eadb810e5519a42833a2d7cf288870ed3a497cf1d8dc2
+[2022-05-07 13:20:27,188] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":100000,"success":0,"not_same_site":["https://example.com/article/2022/5/7/20.html"]}
+[2022-05-07 13:20:27,188] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":100000,"success":0,"not_same_site":["https://example.com/article/2022/5/7/20.html"]}
+[2022-05-07 13:20:30,748] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-07 13:20:30,945] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-07 13:20:30,945] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-07 13:20:50,178] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-07 13:20:53,996] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_sub_categorys key:a5983a07f60d62c159343a962535a4361f9683c18988696a18e637f7e677d14d
+[2022-05-07 13:20:53,996] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_sub_categorys key:a5983a07f60d62c159343a962535a4361f9683c18988696a18e637f7e677d14d
+[2022-05-07 13:20:54,179] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:category_list_子类目_1
+[2022-05-07 13:20:58,612] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:category_list_子类目_2
+[2022-05-07 13:21:01,512] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:archives
+[2022-05-07 13:21:01,533] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-07 13:21:01,621] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:bbf3bdc3e1d1aa1795b437d188d5ed29ee93aa831f3ca9173cb614a3b31d8f78
+[2022-05-07 13:21:01,621] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:bbf3bdc3e1d1aa1795b437d188d5ed29ee93aa831f3ca9173cb614a3b31d8f78
+[2022-05-07 13:21:01,712] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:daf10bc631c22b8facce91cb55f696290399960aa9aa71899f8465789ebdec6e
+[2022-05-07 13:21:01,712] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:daf10bc631c22b8facce91cb55f696290399960aa9aa71899f8465789ebdec6e
+[2022-05-07 13:21:01,802] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9588f35a930d7c7a0da0b8483e3816ac3321b6bbb30f0ca3547c2cf2223f34da
+[2022-05-07 13:21:01,802] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9588f35a930d7c7a0da0b8483e3816ac3321b6bbb30f0ca3547c2cf2223f34da
+[2022-05-07 13:21:01,895] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:e19f145d77587c1d397872cd10ed0897ce744ba8cf3e439ee4ebb8bf5b28d3e1
+[2022-05-07 13:21:01,895] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:e19f145d77587c1d397872cd10ed0897ce744ba8cf3e439ee4ebb8bf5b28d3e1
+[2022-05-07 13:21:01,984] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:ee435f0caad923db44536f2236e43e68adbae1e9fea50112b46c48e3265f7b43
+[2022-05-07 13:21:01,984] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:ee435f0caad923db44536f2236e43e68adbae1e9fea50112b46c48e3265f7b43
+[2022-05-07 13:21:02,076] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d90fe586baee6d596d8227d07f9f80f87b189cc78a5c8a29988a77d4f2cc42a1
+[2022-05-07 13:21:02,076] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d90fe586baee6d596d8227d07f9f80f87b189cc78a5c8a29988a77d4f2cc42a1
+[2022-05-07 13:21:02,168] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:37bb1387e7387608a44c2ba55971f07a737ea94e3f85d7722409578440cae6e3
+[2022-05-07 13:21:02,168] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:37bb1387e7387608a44c2ba55971f07a737ea94e3f85d7722409578440cae6e3
+[2022-05-07 13:21:02,261] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:27c6f1630c4654f59c9604a1c4bdd37eddf2a4e58db2927dc2619a49ad515ca0
+[2022-05-07 13:21:02,261] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:27c6f1630c4654f59c9604a1c4bdd37eddf2a4e58db2927dc2619a49ad515ca0
+[2022-05-07 13:21:02,353] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:89d376b31180a8894978c281c94cb45d474ea7943f2e53a8441c9e17c9c2a2b8
+[2022-05-07 13:21:02,353] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:89d376b31180a8894978c281c94cb45d474ea7943f2e53a8441c9e17c9c2a2b8
+[2022-05-07 13:21:02,446] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a9f2feabe0b4299c8172d239b4274750e8ad6c7c2384d79454d53f74d4eb2a8a
+[2022-05-07 13:21:02,446] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a9f2feabe0b4299c8172d239b4274750e8ad6c7c2384d79454d53f74d4eb2a8a
+[2022-05-07 13:21:02,538] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c74d005be67e8e11ef86a1e8f0f8ebf4eab99bcf892c1e0413b3b1987872105c
+[2022-05-07 13:21:02,538] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c74d005be67e8e11ef86a1e8f0f8ebf4eab99bcf892c1e0413b3b1987872105c
+[2022-05-07 13:21:02,629] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:ccebe20c8ea55fe8db44907a35503aff37d9b9fe96205d81764920b7e33091d6
+[2022-05-07 13:21:02,629] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:ccebe20c8ea55fe8db44907a35503aff37d9b9fe96205d81764920b7e33091d6
+[2022-05-07 13:21:02,720] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:8f6bac6f7662f3a30d84afe4424b3699aee05e0d9a34a75f870dbda1301c8b54
+[2022-05-07 13:21:02,720] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:8f6bac6f7662f3a30d84afe4424b3699aee05e0d9a34a75f870dbda1301c8b54
+[2022-05-07 13:21:02,812] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:21b11d9fe6a477be543b0b1f93d3a8dbac99256d761a077390b0ef8af7837c9c
+[2022-05-07 13:21:02,812] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:21b11d9fe6a477be543b0b1f93d3a8dbac99256d761a077390b0ef8af7837c9c
+[2022-05-07 13:21:02,900] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5a04822330160c98d225067fa1c18deead3efda31136d74084cacbe88557b689
+[2022-05-07 13:21:02,900] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5a04822330160c98d225067fa1c18deead3efda31136d74084cacbe88557b689
+[2022-05-07 13:21:02,989] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:cbbc218b7b214b5da5de68154f3d0764e130418e85db538872bb5707d133999a
+[2022-05-07 13:21:02,989] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:cbbc218b7b214b5da5de68154f3d0764e130418e85db538872bb5707d133999a
+[2022-05-07 13:21:03,083] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4bb1c1af6f90371ebf8fa98459167dbc3e44027e891dd4e6a162fc1570686f6c
+[2022-05-07 13:21:03,083] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4bb1c1af6f90371ebf8fa98459167dbc3e44027e891dd4e6a162fc1570686f6c
+[2022-05-07 13:21:03,198] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:780a85428f40579dc201197b984ae546d80483c1632bde6908594b5e61a23abe
+[2022-05-07 13:21:03,198] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:780a85428f40579dc201197b984ae546d80483c1632bde6908594b5e61a23abe
+[2022-05-07 13:21:03,293] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:21763587136f820e12958781336871e87d6e03f8d8671aeec87cbb0fe8880ff9
+[2022-05-07 13:21:03,293] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:21763587136f820e12958781336871e87d6e03f8d8671aeec87cbb0fe8880ff9
+[2022-05-07 13:21:03,385] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:227b975bc52ff10ffa8f7c74acc19ad8d296f22b29bb56ae4e74794f04e8df1f
+[2022-05-07 13:21:03,385] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:227b975bc52ff10ffa8f7c74acc19ad8d296f22b29bb56ae4e74794f04e8df1f
+[2022-05-07 13:21:09,108] INFO [blog.models.comment_list:150 models] set article comments:20
+[2022-05-07 13:21:09,144] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:47160847853901fe533eadb810e5519a42833a2d7cf288870ed3a497cf1d8dc2
+[2022-05-07 13:21:09,144] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:47160847853901fe533eadb810e5519a42833a2d7cf288870ed3a497cf1d8dc2
+[2022-05-07 13:21:09,595] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_category_tree key:08f4e7d931ffc9595800659b565212c5ae77e59602b63d0fef46dacf3eea2dcb
+[2022-05-07 13:21:09,595] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_category_tree key:08f4e7d931ffc9595800659b565212c5ae77e59602b63d0fef46dacf3eea2dcb
+[2022-05-07 13:21:09,597] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_category_tree key:a17db749024ca236596796ea40e9238178fdbb95c845ae233b596c80799e7b1d
+[2022-05-07 13:21:09,597] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_category_tree key:a17db749024ca236596796ea40e9238178fdbb95c845ae233b596c80799e7b1d
+[2022-05-07 13:21:10,139] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:next_article key:b3ec924911275af4c37916def4c25c284ad85fad917c75bf24cf9aba34c6b4a1
+[2022-05-07 13:21:10,139] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:next_article key:b3ec924911275af4c37916def4c25c284ad85fad917c75bf24cf9aba34c6b4a1
+[2022-05-07 13:21:10,230] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:prev_article key:feab40014efd5a5fddea29549d6b1664e2b44e83f999c66ae9b7e5734985c8c7
+[2022-05-07 13:21:10,230] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:prev_article key:feab40014efd5a5fddea29549d6b1664e2b44e83f999c66ae9b7e5734985c8c7
+[2022-05-07 13:21:10,322] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-07 13:21:25,641] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-07 13:22:46,184] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/views.py changed, reloading.
+[2022-05-07 13:22:46,761] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-07 13:22:59,595] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:archives
+[2022-05-07 13:22:59,610] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-07 13:22:59,778] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-07 13:22:59,778] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-07 13:23:00,238] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-07 13:23:00,323] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9678dd151e33ee8683ea941b4d210c7f66733bf92f86a4d90e4de8643f7c81d5
+[2022-05-07 13:23:00,323] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9678dd151e33ee8683ea941b4d210c7f66733bf92f86a4d90e4de8643f7c81d5
+[2022-05-07 13:23:00,412] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1e9d76488271cb934900ad1d8bf7907ac2150fea8ccfc9e3631ad002e8126c35
+[2022-05-07 13:23:00,412] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1e9d76488271cb934900ad1d8bf7907ac2150fea8ccfc9e3631ad002e8126c35
+[2022-05-07 13:23:00,503] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:2b421c5c32560ee5dbefc3cada9a761fcf4815d1d5dd1b2ca36138c4cc823e4f
+[2022-05-07 13:23:00,503] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:2b421c5c32560ee5dbefc3cada9a761fcf4815d1d5dd1b2ca36138c4cc823e4f
+[2022-05-07 13:23:00,596] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:dbd3e99d0f65c4bffff83832ef3486da1b772a12773541e7f80314e8f28deb1b
+[2022-05-07 13:23:00,596] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:dbd3e99d0f65c4bffff83832ef3486da1b772a12773541e7f80314e8f28deb1b
+[2022-05-07 13:23:00,687] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:10c10a5893e17bfeb167578dba8ae3e1a4cf573f0cca686d3222c06d0b1fdab0
+[2022-05-07 13:23:00,687] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:10c10a5893e17bfeb167578dba8ae3e1a4cf573f0cca686d3222c06d0b1fdab0
+[2022-05-07 13:23:00,778] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9ee01230a4508b57ff9603ba03211e8ecf3600ecefac7f06ecfe2dac3a433a14
+[2022-05-07 13:23:00,778] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9ee01230a4508b57ff9603ba03211e8ecf3600ecefac7f06ecfe2dac3a433a14
+[2022-05-07 13:23:00,878] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c492b0a0d14f33a1400bbbdf852228afc763c83b538297935a0dc170199165d2
+[2022-05-07 13:23:00,878] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c492b0a0d14f33a1400bbbdf852228afc763c83b538297935a0dc170199165d2
+[2022-05-07 13:23:00,966] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5fe8fe9865b223363f741197524ba2e03ba06cf472c84ea3415be0e10eaa29a2
+[2022-05-07 13:23:00,966] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5fe8fe9865b223363f741197524ba2e03ba06cf472c84ea3415be0e10eaa29a2
+[2022-05-07 13:23:01,056] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:388405cbea5d0c108b86d3aefb10e08e7f7a6c140fae7213e1997242c93f7c5b
+[2022-05-07 13:23:01,056] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:388405cbea5d0c108b86d3aefb10e08e7f7a6c140fae7213e1997242c93f7c5b
+[2022-05-07 13:23:01,154] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:975b22dad0ecb78ac70a5777d045eea8b476165c948132f1bf6b5b86cefaf9b3
+[2022-05-07 13:23:01,154] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:975b22dad0ecb78ac70a5777d045eea8b476165c948132f1bf6b5b86cefaf9b3
+[2022-05-07 13:23:01,263] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d85c03133b8a1b0dadc6460a9a388ba84bb7a4e7b2895d39d0c249024f7efe21
+[2022-05-07 13:23:01,263] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d85c03133b8a1b0dadc6460a9a388ba84bb7a4e7b2895d39d0c249024f7efe21
+[2022-05-07 13:23:01,345] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:e48eb6a1234d1d26d5a34886cb06f7b9f92ffb8024af2b00d1658f066444c1f0
+[2022-05-07 13:23:01,345] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:e48eb6a1234d1d26d5a34886cb06f7b9f92ffb8024af2b00d1658f066444c1f0
+[2022-05-07 13:23:01,427] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:870a8c9d335547f2bba3c9fb8bf9185bf831251fd3e9b21884040633f9ec692d
+[2022-05-07 13:23:01,427] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:870a8c9d335547f2bba3c9fb8bf9185bf831251fd3e9b21884040633f9ec692d
+[2022-05-07 13:23:01,511] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:24dbb9679b95874c701fc8972ac9938c1c045da09c1022c5cd7e6b42d535db28
+[2022-05-07 13:23:01,511] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:24dbb9679b95874c701fc8972ac9938c1c045da09c1022c5cd7e6b42d535db28
+[2022-05-07 13:23:01,622] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:93541a0cfb43a02472e9da657e6a2d42a9c4fd6b7d7aae7b9684148f86e70d46
+[2022-05-07 13:23:01,622] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:93541a0cfb43a02472e9da657e6a2d42a9c4fd6b7d7aae7b9684148f86e70d46
+[2022-05-07 13:23:01,741] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:f8f0065ed26a389ca2239feb2c14caf6801e7a7ebdc6a69f67c2b0f27bc500d9
+[2022-05-07 13:23:01,741] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:f8f0065ed26a389ca2239feb2c14caf6801e7a7ebdc6a69f67c2b0f27bc500d9
+[2022-05-07 13:23:01,840] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:7f52c67286568c08f5ca47da3e210c45ac8f6f241673a1f92d58cfb41831c0ab
+[2022-05-07 13:23:01,840] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:7f52c67286568c08f5ca47da3e210c45ac8f6f241673a1f92d58cfb41831c0ab
+[2022-05-07 13:23:01,928] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:bde55033201de210c6244e4e971fdf238533af5317ca777b33fd57a6e3aebd80
+[2022-05-07 13:23:01,928] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:bde55033201de210c6244e4e971fdf238533af5317ca777b33fd57a6e3aebd80
+[2022-05-07 13:23:02,014] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5efc45c757f6d25f22a94f014afad1f3e5c90acb402823178be5ae027fa37437
+[2022-05-07 13:23:02,014] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5efc45c757f6d25f22a94f014afad1f3e5c90acb402823178be5ae027fa37437
+[2022-05-07 13:23:02,100] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:91e663bc24cbad2d3f9817cf8e35ee6ec9b9864cba5697266d65ae35e1e31fea
+[2022-05-07 13:23:02,100] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:91e663bc24cbad2d3f9817cf8e35ee6ec9b9864cba5697266d65ae35e1e31fea
+[2022-05-07 13:23:03,618] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-07 13:23:05,460] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-07 13:23:06,961] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-07 13:23:08,303] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-07 13:30:23,055] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-07 13:30:46,016] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-07 13:30:47,916] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-07 13:30:50,858] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_2
+[2022-05-07 13:34:29,966] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_2
+[2022-05-07 13:34:30,775] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_2
+[2022-05-07 13:55:29,710] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-07 13:55:30,465] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-07 13:55:31,310] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-07 13:55:40,366] INFO [blog.models.comment_list:150 models] set article comments:20
+[2022-05-07 13:55:40,433] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:5f48f53185b6bb358bd040b3965be9800d88ebcafd810156fb04c7e066eb5d03
+[2022-05-07 13:55:40,433] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:5f48f53185b6bb358bd040b3965be9800d88ebcafd810156fb04c7e066eb5d03
+[2022-05-07 13:55:40,973] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_category_tree key:4452fbb37d03cc16ef2fc2004fb65775d07882bc73cdcc1125a960a93714db0c
+[2022-05-07 13:55:40,973] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_category_tree key:4452fbb37d03cc16ef2fc2004fb65775d07882bc73cdcc1125a960a93714db0c
+[2022-05-07 13:55:40,974] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_category_tree key:23a98dd30204bd48c2ac6840279deaa819d2b86615542bb4a4f97817268332c8
+[2022-05-07 13:55:40,974] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_category_tree key:23a98dd30204bd48c2ac6840279deaa819d2b86615542bb4a4f97817268332c8
+[2022-05-07 13:55:41,533] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:next_article key:52c0feb28344c2d5ee7ffc029b03b47ec24724a5ce7909211782269e9100685a
+[2022-05-07 13:55:41,533] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:next_article key:52c0feb28344c2d5ee7ffc029b03b47ec24724a5ce7909211782269e9100685a
+[2022-05-07 13:55:41,619] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:prev_article key:d0acbb41fb6f40998dc0b21b9bea13800642142e4e9a67dd348dd5c1efdd03ac
+[2022-05-07 13:55:41,619] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:prev_article key:d0acbb41fb6f40998dc0b21b9bea13800642142e4e9a67dd348dd5c1efdd03ac
+[2022-05-07 13:55:41,727] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-07 13:56:26,134] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:author_aal-hui_1
+[2022-05-07 14:02:21,300] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/urls.py changed, reloading.
+[2022-05-07 14:02:21,778] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-07 14:05:19,101] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/urls.py changed, reloading.
+[2022-05-07 14:05:19,558] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-07 14:20:41,317] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_2
+[2022-05-07 14:20:41,345] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-07 14:20:41,522] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-07 14:20:41,522] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-07 14:20:49,229] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-07 14:20:54,440] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_2
+[2022-05-07 14:27:46,098] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-07 14:27:59,409] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/views.py changed, reloading.
+[2022-05-07 14:27:59,974] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-07 14:28:42,422] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/views.py changed, reloading.
+[2022-05-07 14:28:42,854] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-07 14:28:48,782] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-07 14:28:48,792] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-07 14:28:48,972] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-07 14:28:48,972] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-07 14:28:56,451] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-07 14:28:56,539] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d13679a4425c97382e1e446ef496c73e9a0edb92190473b17239f12d1896a737
+[2022-05-07 14:28:56,539] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d13679a4425c97382e1e446ef496c73e9a0edb92190473b17239f12d1896a737
+[2022-05-07 14:28:56,632] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:dff69f0813b45c1fd82b4584627b009d91902ecb3e5dcc09579586db3cc08158
+[2022-05-07 14:28:56,632] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:dff69f0813b45c1fd82b4584627b009d91902ecb3e5dcc09579586db3cc08158
+[2022-05-07 14:28:56,723] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:fa0f7b07668764b2f118378db49df69869a8337dc2436046a02d78d4edef9e18
+[2022-05-07 14:28:56,723] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:fa0f7b07668764b2f118378db49df69869a8337dc2436046a02d78d4edef9e18
+[2022-05-07 14:28:56,815] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3fb799de89afc34e926157de09a1cd6480de9444e5cdb89603833d99eae7c6b6
+[2022-05-07 14:28:56,815] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3fb799de89afc34e926157de09a1cd6480de9444e5cdb89603833d99eae7c6b6
+[2022-05-07 14:28:56,907] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:31ad1e78f75ebb461a9c4e240bcdd1418de44a8b6066af21eeb4aa84c29913ae
+[2022-05-07 14:28:56,907] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:31ad1e78f75ebb461a9c4e240bcdd1418de44a8b6066af21eeb4aa84c29913ae
+[2022-05-07 14:28:57,005] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c08ce47c71d3cad8b54c30f240b26e711658d519fab8770260d8e16f0512029d
+[2022-05-07 14:28:57,005] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c08ce47c71d3cad8b54c30f240b26e711658d519fab8770260d8e16f0512029d
+[2022-05-07 14:28:57,095] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:e21bba31ddcde698abd8b74fc951c9f819e05267f658a95c72bc0024da9f6178
+[2022-05-07 14:28:57,095] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:e21bba31ddcde698abd8b74fc951c9f819e05267f658a95c72bc0024da9f6178
+[2022-05-07 14:28:57,198] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:6959923fcd8332f682fa4efaf14be9a4792f2ead09f94f6222d86085980d8799
+[2022-05-07 14:28:57,198] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:6959923fcd8332f682fa4efaf14be9a4792f2ead09f94f6222d86085980d8799
+[2022-05-07 14:28:57,319] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:962d64ddd975bd1951b926b1a24fb3462f5a76cfc0367e6b05c8e1107505eaaa
+[2022-05-07 14:28:57,319] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:962d64ddd975bd1951b926b1a24fb3462f5a76cfc0367e6b05c8e1107505eaaa
+[2022-05-07 14:28:57,441] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:21d764c5430ca53d471bf46deb8c9e843176492e3eb97ddae51f57b421290121
+[2022-05-07 14:28:57,441] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:21d764c5430ca53d471bf46deb8c9e843176492e3eb97ddae51f57b421290121
+[2022-05-07 14:28:57,555] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:64a92deb72849b2efb4f47b1153f708b8fd7b39504917bcec4f4bc8d0357309b
+[2022-05-07 14:28:57,555] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:64a92deb72849b2efb4f47b1153f708b8fd7b39504917bcec4f4bc8d0357309b
+[2022-05-07 14:28:57,655] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:f287db8d48bc7d0a18f14b623acaa614a8a64150fb3e2a9307655f075717ee15
+[2022-05-07 14:28:57,655] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:f287db8d48bc7d0a18f14b623acaa614a8a64150fb3e2a9307655f075717ee15
+[2022-05-07 14:28:57,746] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:8f641cc01132ae7fcf970022693cedcd65e449f47760c0ed82173ee7c7b682de
+[2022-05-07 14:28:57,746] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:8f641cc01132ae7fcf970022693cedcd65e449f47760c0ed82173ee7c7b682de
+[2022-05-07 14:28:57,835] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:840e980dd9e6ccdab4f9e3db2877401c852e8cdc427c65002997b5e08f2dff89
+[2022-05-07 14:28:57,835] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:840e980dd9e6ccdab4f9e3db2877401c852e8cdc427c65002997b5e08f2dff89
+[2022-05-07 14:28:57,926] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:98f7fbc5b3cfb255f30426436cd268b11feec194fc1a1480aa61eb6d44c6e602
+[2022-05-07 14:28:57,926] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:98f7fbc5b3cfb255f30426436cd268b11feec194fc1a1480aa61eb6d44c6e602
+[2022-05-07 14:28:58,037] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c3a0a9103438847fbb1bd0fb6a709c162da366c79d709d34df89067f02b7e154
+[2022-05-07 14:28:58,037] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c3a0a9103438847fbb1bd0fb6a709c162da366c79d709d34df89067f02b7e154
+[2022-05-07 14:28:58,126] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:01aa05694ecd818dc99ad38bced36e453a163ede9a956d247162737413ef9d41
+[2022-05-07 14:28:58,126] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:01aa05694ecd818dc99ad38bced36e453a163ede9a956d247162737413ef9d41
+[2022-05-07 14:28:58,215] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:adbc6f3420276b0c17c3d19e8bddaf2c437b758277b66d2936593aaadc6c2511
+[2022-05-07 14:28:58,215] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:adbc6f3420276b0c17c3d19e8bddaf2c437b758277b66d2936593aaadc6c2511
+[2022-05-07 14:28:58,304] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1bc3d77ad777fa4335b049f5e213795ca1f93e570b578cd0aea8382a6e0533f8
+[2022-05-07 14:28:58,304] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1bc3d77ad777fa4335b049f5e213795ca1f93e570b578cd0aea8382a6e0533f8
+[2022-05-07 14:28:58,393] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:73da6fb2d3a5e89da160f03212c2da04ff22fd9ca13eb3a86762e52ae5417662
+[2022-05-07 14:28:58,393] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:73da6fb2d3a5e89da160f03212c2da04ff22fd9ca13eb3a86762e52ae5417662
+[2022-05-07 14:54:30,607] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/urls.py changed, reloading.
+[2022-05-07 14:54:31,041] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-07 14:55:29,024] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/views.py changed, reloading.
+[2022-05-07 14:55:29,441] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-08 07:03:46,012] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-08 07:06:05,774] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/urls.py changed, reloading.
+[2022-05-08 07:06:06,200] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-08 07:06:37,949] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-08 07:06:37,972] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-08 07:06:38,868] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:06:38,868] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:07:13,361] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-08 07:07:13,768] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:843be4a0d78397831f5a9ded6a5c87de4800ace7a7d03d131a19518c69a01081
+[2022-05-08 07:07:13,768] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:843be4a0d78397831f5a9ded6a5c87de4800ace7a7d03d131a19518c69a01081
+[2022-05-08 07:07:14,258] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:aa91d7f986852c37660b95f052946dbc187e86c6ec0fe18303e3b5901f33f069
+[2022-05-08 07:07:14,258] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:aa91d7f986852c37660b95f052946dbc187e86c6ec0fe18303e3b5901f33f069
+[2022-05-08 07:07:14,779] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:62ea7173629e743020453d287370973ea84529c44b7bced4442e0fd9da1e7aac
+[2022-05-08 07:07:14,779] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:62ea7173629e743020453d287370973ea84529c44b7bced4442e0fd9da1e7aac
+[2022-05-08 07:07:15,249] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3415efb3553151af2517a585e89e4ba885bbdcfcc20af25131915e29d080eb3e
+[2022-05-08 07:07:15,249] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3415efb3553151af2517a585e89e4ba885bbdcfcc20af25131915e29d080eb3e
+[2022-05-08 07:07:15,771] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4ec04bbbb79954cbbed5e5cc19e854dcbba6d33d87461f53f51b3b8aa83802aa
+[2022-05-08 07:07:15,771] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4ec04bbbb79954cbbed5e5cc19e854dcbba6d33d87461f53f51b3b8aa83802aa
+[2022-05-08 07:07:16,311] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d4366f99ded553a5160c81696d50cc44e36f786cd0cebb2404a80ce0c5d3cf3c
+[2022-05-08 07:07:16,311] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d4366f99ded553a5160c81696d50cc44e36f786cd0cebb2404a80ce0c5d3cf3c
+[2022-05-08 07:07:16,826] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a30bff064ec867f1a707d6d139c0c850e36cd733bf0d623b8c4a283b67fe100d
+[2022-05-08 07:07:16,826] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a30bff064ec867f1a707d6d139c0c850e36cd733bf0d623b8c4a283b67fe100d
+[2022-05-08 07:07:17,194] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:e0d3529153a8c54109480b27bb0d6c22f17dc24dd955499eb3902b9453383a45
+[2022-05-08 07:07:17,194] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:e0d3529153a8c54109480b27bb0d6c22f17dc24dd955499eb3902b9453383a45
+[2022-05-08 07:07:17,574] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:e7ca50a9f57804a439a3eecacf5c9f4d4d7c3928249081820586a05720a3cc61
+[2022-05-08 07:07:17,574] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:e7ca50a9f57804a439a3eecacf5c9f4d4d7c3928249081820586a05720a3cc61
+[2022-05-08 07:07:18,046] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:46ce3968456071d0c63816c4aaa6c05517667cf2a20773c15fcb8d219c9a70f7
+[2022-05-08 07:07:18,046] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:46ce3968456071d0c63816c4aaa6c05517667cf2a20773c15fcb8d219c9a70f7
+[2022-05-08 07:07:18,461] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a2479134a9ae2e2e10239ce8a8c840f4a848bf61d212ac832ee5db3eec56b375
+[2022-05-08 07:07:18,461] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a2479134a9ae2e2e10239ce8a8c840f4a848bf61d212ac832ee5db3eec56b375
+[2022-05-08 07:07:18,978] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d66cc5772097e6d7bdcc0faed693000f2a3aeff59d2472c744da095fe2c91331
+[2022-05-08 07:07:18,978] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d66cc5772097e6d7bdcc0faed693000f2a3aeff59d2472c744da095fe2c91331
+[2022-05-08 07:07:19,354] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:06b7cd2151c3dfa89a32614907132d0f5a78f697c102f960bcf7f9ff814f235c
+[2022-05-08 07:07:19,354] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:06b7cd2151c3dfa89a32614907132d0f5a78f697c102f960bcf7f9ff814f235c
+[2022-05-08 07:07:19,883] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d9e2921efa723795d55eb8e4b8789ad15e0a275e35a50febe2a6d4de4e14450e
+[2022-05-08 07:07:19,883] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d9e2921efa723795d55eb8e4b8789ad15e0a275e35a50febe2a6d4de4e14450e
+[2022-05-08 07:07:20,230] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9cc7290ab7771ead4fc12359751afdd139bac9aa2ea6f7103e0e1ae0eded5286
+[2022-05-08 07:07:20,230] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9cc7290ab7771ead4fc12359751afdd139bac9aa2ea6f7103e0e1ae0eded5286
+[2022-05-08 07:07:20,762] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:517f1f79f6f96818c200646b12121825561633fad4f6fef3eec3e862aaf9d6ef
+[2022-05-08 07:07:20,762] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:517f1f79f6f96818c200646b12121825561633fad4f6fef3eec3e862aaf9d6ef
+[2022-05-08 07:07:21,211] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3bcd386f796b76c7a53ee62c4e487328d63175f502472bf0c6ab9cf240159544
+[2022-05-08 07:07:21,211] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3bcd386f796b76c7a53ee62c4e487328d63175f502472bf0c6ab9cf240159544
+[2022-05-08 07:07:21,774] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:75c60f8a0bcbdaffc600c404720cf54e4793660fa95ba5f469b275662835e601
+[2022-05-08 07:07:21,774] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:75c60f8a0bcbdaffc600c404720cf54e4793660fa95ba5f469b275662835e601
+[2022-05-08 07:07:22,453] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:78cdcebeaebcfa30e873aeeb56afbf252487b7742d86882e196c3d238fed79f2
+[2022-05-08 07:07:22,453] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:78cdcebeaebcfa30e873aeeb56afbf252487b7742d86882e196c3d238fed79f2
+[2022-05-08 07:07:23,272] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4d5c8b1615ef5711e5412c12b014bbb3d939206c52b90a7dcc376209b3546c6a
+[2022-05-08 07:07:23,272] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4d5c8b1615ef5711e5412c12b014bbb3d939206c52b90a7dcc376209b3546c6a
+[2022-05-08 07:08:00,246] INFO [blog.models.comment_list:150 models] set article comments:20
+[2022-05-08 07:08:00,270] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:3ac65716dae06967e2d16542b06bcf42892fdd7d8d9b9ace6a79991fd9cf2c64
+[2022-05-08 07:08:00,270] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:3ac65716dae06967e2d16542b06bcf42892fdd7d8d9b9ace6a79991fd9cf2c64
+[2022-05-08 07:08:03,497] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_category_tree key:95eb41b532342e5d6f7c677ddb4608a1590e39c7d1c86dd5e7a96e6aded76eb8
+[2022-05-08 07:08:03,497] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_category_tree key:95eb41b532342e5d6f7c677ddb4608a1590e39c7d1c86dd5e7a96e6aded76eb8
+[2022-05-08 07:08:03,498] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_category_tree key:e7341cd5334085070f1aa34e5c801261d0904a9c70411ba563a44111b4adb90e
+[2022-05-08 07:08:03,498] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_category_tree key:e7341cd5334085070f1aa34e5c801261d0904a9c70411ba563a44111b4adb90e
+[2022-05-08 07:08:04,794] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:next_article key:929f204b83e915b394099943d82c533dae183ba225dfdd8cd0c44efdafd53910
+[2022-05-08 07:08:04,794] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:next_article key:929f204b83e915b394099943d82c533dae183ba225dfdd8cd0c44efdafd53910
+[2022-05-08 07:08:05,359] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:prev_article key:77f0529a7323a0fd65275acbf378f1c043f8e4d311cca058fed0dac5757c6031
+[2022-05-08 07:08:05,359] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:prev_article key:77f0529a7323a0fd65275acbf378f1c043f8e4d311cca058fed0dac5757c6031
+[2022-05-08 07:08:05,936] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-08 07:21:35,172] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/views.py changed, reloading.
+[2022-05-08 07:21:35,609] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-08 07:22:00,581] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-08 07:22:00,595] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-08 07:22:01,170] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:22:01,170] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:22:15,959] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-08 07:22:16,053] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:2a509d4ec9c491f01be652a7769a7a4dd4346465de4eff0d0e7e018c3dabedc9
+[2022-05-08 07:22:16,053] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:2a509d4ec9c491f01be652a7769a7a4dd4346465de4eff0d0e7e018c3dabedc9
+[2022-05-08 07:22:16,138] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:7974d8ccd473c80c71dbe0a8de1160623d140940ae422d4fed5fb6cd56bf1d90
+[2022-05-08 07:22:16,138] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:7974d8ccd473c80c71dbe0a8de1160623d140940ae422d4fed5fb6cd56bf1d90
+[2022-05-08 07:22:16,223] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5b4948f923f4da7a7371d736022de28aaa2c371ecd63f4cfe9a347bbb7d632b5
+[2022-05-08 07:22:16,223] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5b4948f923f4da7a7371d736022de28aaa2c371ecd63f4cfe9a347bbb7d632b5
+[2022-05-08 07:22:16,318] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:7da704daf2f9b4840f18a43061172639b3643a75f791da1867259c4abfbeb21e
+[2022-05-08 07:22:16,318] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:7da704daf2f9b4840f18a43061172639b3643a75f791da1867259c4abfbeb21e
+[2022-05-08 07:22:16,402] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:316035498d462965ebe4ee619d5801257581539ea333d4c00428382d956642f2
+[2022-05-08 07:22:16,402] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:316035498d462965ebe4ee619d5801257581539ea333d4c00428382d956642f2
+[2022-05-08 07:22:16,485] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:db57cedefd93ee0f137b5edda890686ee1bcf4f575daa5f0107f54bff2373e91
+[2022-05-08 07:22:16,485] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:db57cedefd93ee0f137b5edda890686ee1bcf4f575daa5f0107f54bff2373e91
+[2022-05-08 07:22:16,568] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:0cbf0ea56673c29f619b2eaa6f3ed2549c6484799cc017d11ecd375eed5b7f13
+[2022-05-08 07:22:16,568] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:0cbf0ea56673c29f619b2eaa6f3ed2549c6484799cc017d11ecd375eed5b7f13
+[2022-05-08 07:22:16,661] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d8ff638258d79aa3707fc541b0185c80ce8ae5fd80529f083c489c2e2b6d7a74
+[2022-05-08 07:22:16,661] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d8ff638258d79aa3707fc541b0185c80ce8ae5fd80529f083c489c2e2b6d7a74
+[2022-05-08 07:22:16,754] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4ec0e8859e38b113584bdc0518c35d7097faf7fd35071349d9a3c46e3fc34bdf
+[2022-05-08 07:22:16,754] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4ec0e8859e38b113584bdc0518c35d7097faf7fd35071349d9a3c46e3fc34bdf
+[2022-05-08 07:22:16,837] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:039a5bbf02fb9e79945558d8f69b0df9544abf3072cc6cf0a1fca28009b2fc00
+[2022-05-08 07:22:16,837] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:039a5bbf02fb9e79945558d8f69b0df9544abf3072cc6cf0a1fca28009b2fc00
+[2022-05-08 07:22:16,930] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:77eccd70da13a41a64a24accdd26249d23360e516398670a8b3fc60f91ad2334
+[2022-05-08 07:22:16,930] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:77eccd70da13a41a64a24accdd26249d23360e516398670a8b3fc60f91ad2334
+[2022-05-08 07:22:17,016] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:bb9de8f5101ad7e86a4c0fc976c63a1769b9d2339966a106faaedfdbf0725ad6
+[2022-05-08 07:22:17,016] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:bb9de8f5101ad7e86a4c0fc976c63a1769b9d2339966a106faaedfdbf0725ad6
+[2022-05-08 07:22:17,115] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a5a621da6592f8d9234f0580a09bb84042d035556cfd55d05d15225689c009e6
+[2022-05-08 07:22:17,115] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a5a621da6592f8d9234f0580a09bb84042d035556cfd55d05d15225689c009e6
+[2022-05-08 07:22:17,199] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:2a2cfe3f60c1d32514b72a2cda0a0c03d910cdbf544aecd44827bf175cd2953c
+[2022-05-08 07:22:17,199] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:2a2cfe3f60c1d32514b72a2cda0a0c03d910cdbf544aecd44827bf175cd2953c
+[2022-05-08 07:22:17,293] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:f407f1cf7571fb2868c47742b513f776493de2b93e560675b0e53a925d97cc5e
+[2022-05-08 07:22:17,293] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:f407f1cf7571fb2868c47742b513f776493de2b93e560675b0e53a925d97cc5e
+[2022-05-08 07:22:17,385] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:565efad699e4242dc4c8cf29e383e3478095c5e6410aab140ea318e126763fa5
+[2022-05-08 07:22:17,385] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:565efad699e4242dc4c8cf29e383e3478095c5e6410aab140ea318e126763fa5
+[2022-05-08 07:22:17,474] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:39e9d12bddbae737af92a09135b0c0ec56616f16cc931c49dae92281a138dd4a
+[2022-05-08 07:22:17,474] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:39e9d12bddbae737af92a09135b0c0ec56616f16cc931c49dae92281a138dd4a
+[2022-05-08 07:22:17,558] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a84bdbea86cc828d2cd6be747e40d7312978d1c69c05bc820bd17f8696b2b073
+[2022-05-08 07:22:17,558] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a84bdbea86cc828d2cd6be747e40d7312978d1c69c05bc820bd17f8696b2b073
+[2022-05-08 07:22:17,644] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:2defa1fcaadc597fd190ef3e8b30e1297be6713732e4810046d6de1f17679e3d
+[2022-05-08 07:22:17,644] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:2defa1fcaadc597fd190ef3e8b30e1297be6713732e4810046d6de1f17679e3d
+[2022-05-08 07:22:17,729] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:f11171c842b7a6088b66b189106eedb7e1037cec4edfa3de990b625c3d1a5e31
+[2022-05-08 07:22:17,729] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:f11171c842b7a6088b66b189106eedb7e1037cec4edfa3de990b625c3d1a5e31
+[2022-05-08 07:22:30,280] INFO [blog.views.get_queryset_from_cache:65 views] get view cache.key:index_1
+[2022-05-08 07:22:59,847] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/views.py changed, reloading.
+[2022-05-08 07:23:00,290] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-08 07:24:05,742] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-08 07:24:05,756] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-08 07:24:05,941] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:24:05,941] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:24:12,619] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-08 07:24:12,703] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:48ca7da20afa8c6b76a81324b579a8c7943d8b70648a5a0edb59f5294c6f33d9
+[2022-05-08 07:24:12,703] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:48ca7da20afa8c6b76a81324b579a8c7943d8b70648a5a0edb59f5294c6f33d9
+[2022-05-08 07:24:12,790] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:01b37504c0ff0ed770241a7805b8de854e31004ae142f52657c94a9b2635057a
+[2022-05-08 07:24:12,790] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:01b37504c0ff0ed770241a7805b8de854e31004ae142f52657c94a9b2635057a
+[2022-05-08 07:24:12,882] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:718dd4b1711a9dd348df34ab0b7ff0473aef9197bca804941932f266cd149019
+[2022-05-08 07:24:12,882] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:718dd4b1711a9dd348df34ab0b7ff0473aef9197bca804941932f266cd149019
+[2022-05-08 07:24:12,972] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:825013a577243125d028a746f1ec9b7a7bd4998b464b27ad423d04c274a09024
+[2022-05-08 07:24:12,972] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:825013a577243125d028a746f1ec9b7a7bd4998b464b27ad423d04c274a09024
+[2022-05-08 07:24:13,063] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:395b1e4bf5fe80630673aaeb8c0dcf6100b87a1a9db7b15a4e049192bb70076a
+[2022-05-08 07:24:13,063] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:395b1e4bf5fe80630673aaeb8c0dcf6100b87a1a9db7b15a4e049192bb70076a
+[2022-05-08 07:24:13,150] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a99d613f28e808fee7b7a0b2e97a6dfd76480c7df9abd794486ccf89c528c69f
+[2022-05-08 07:24:13,150] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a99d613f28e808fee7b7a0b2e97a6dfd76480c7df9abd794486ccf89c528c69f
+[2022-05-08 07:24:13,241] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d4a2e9caa0939d416d86f5de624b709d2a276212ccfaccebf29f42852033d14f
+[2022-05-08 07:24:13,241] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d4a2e9caa0939d416d86f5de624b709d2a276212ccfaccebf29f42852033d14f
+[2022-05-08 07:24:13,333] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:38f2a1efd8c07cf2eb384d9dbc00f75574ee887834d70901314536575107de4e
+[2022-05-08 07:24:13,333] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:38f2a1efd8c07cf2eb384d9dbc00f75574ee887834d70901314536575107de4e
+[2022-05-08 07:24:13,423] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:98c015c267a666008649615dac70de845b943e6be862b3848c90a5ea4cdd34ee
+[2022-05-08 07:24:13,423] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:98c015c267a666008649615dac70de845b943e6be862b3848c90a5ea4cdd34ee
+[2022-05-08 07:24:13,507] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d2da5aba48d4968f71c0cab7448c8852e9b2619dc9c1016d0a168daa7afa9d68
+[2022-05-08 07:24:13,507] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d2da5aba48d4968f71c0cab7448c8852e9b2619dc9c1016d0a168daa7afa9d68
+[2022-05-08 07:24:13,595] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9d035088078c6538dc83c02eca446f6ea325d0eeb8b575d58981300d635a2d55
+[2022-05-08 07:24:13,595] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9d035088078c6538dc83c02eca446f6ea325d0eeb8b575d58981300d635a2d55
+[2022-05-08 07:24:13,682] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:e8b7ac5d2da2c4394d9317f2b377239ec19d485bba0fe75f2acaf6e3dcdfac45
+[2022-05-08 07:24:13,682] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:e8b7ac5d2da2c4394d9317f2b377239ec19d485bba0fe75f2acaf6e3dcdfac45
+[2022-05-08 07:24:13,775] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3ba97a8428b3e01685d413c5cae6668ce1a4fc78cd558022df6ff5af14caaec5
+[2022-05-08 07:24:13,775] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3ba97a8428b3e01685d413c5cae6668ce1a4fc78cd558022df6ff5af14caaec5
+[2022-05-08 07:24:13,859] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:15ce68348da4af389c5e6001034f24a60d00a384917c93cc1175c9c6ae06bf59
+[2022-05-08 07:24:13,859] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:15ce68348da4af389c5e6001034f24a60d00a384917c93cc1175c9c6ae06bf59
+[2022-05-08 07:24:13,943] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a607e00af758f8927c859f445d79dbd81059695a10df018a146824c0755f1ed5
+[2022-05-08 07:24:13,943] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:a607e00af758f8927c859f445d79dbd81059695a10df018a146824c0755f1ed5
+[2022-05-08 07:24:14,028] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3d31a85f46ffa1ee1543044ebdad2c83355b0604f8dfe947a0f5d96147dd6805
+[2022-05-08 07:24:14,028] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3d31a85f46ffa1ee1543044ebdad2c83355b0604f8dfe947a0f5d96147dd6805
+[2022-05-08 07:24:14,116] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5b09fb75e6323b2184c12e63be2a4b28b8b475f5717f83498ce5385d1132399c
+[2022-05-08 07:24:14,116] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5b09fb75e6323b2184c12e63be2a4b28b8b475f5717f83498ce5385d1132399c
+[2022-05-08 07:24:14,207] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4f676d85cd487eb42531e00d0f7a260dedd15155ba0bca318dd669f6a6712002
+[2022-05-08 07:24:14,207] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4f676d85cd487eb42531e00d0f7a260dedd15155ba0bca318dd669f6a6712002
+[2022-05-08 07:24:14,307] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:644ca6709c717f508e7c3c256d79d45ee18bdf0dbbb061dc4ec187d98b31b857
+[2022-05-08 07:24:14,307] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:644ca6709c717f508e7c3c256d79d45ee18bdf0dbbb061dc4ec187d98b31b857
+[2022-05-08 07:24:14,396] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:049af0d1af27fb8744869fb7580e64cfeff89394cffba8ee2b9c4efab9a0bdc6
+[2022-05-08 07:24:14,396] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:049af0d1af27fb8744869fb7580e64cfeff89394cffba8ee2b9c4efab9a0bdc6
+[2022-05-08 07:24:29,030] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-08 07:24:35,168] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2022-05-08 07:24:35,173] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-08 07:24:35,343] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:24:35,343] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:24:42,478] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-08 07:24:42,567] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:dcd1961343945f2bf2662ff5596ab9ff463aa7dca0d0642d3514eaf56a9dc311
+[2022-05-08 07:24:42,567] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:dcd1961343945f2bf2662ff5596ab9ff463aa7dca0d0642d3514eaf56a9dc311
+[2022-05-08 07:24:42,667] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:11ca8f6ec6d3983c59a06c0c548e19157cb53ff10d9f4b9e8d1ffed345ab37bc
+[2022-05-08 07:24:42,667] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:11ca8f6ec6d3983c59a06c0c548e19157cb53ff10d9f4b9e8d1ffed345ab37bc
+[2022-05-08 07:24:42,760] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:0dfa79ba592b37b263744acf0c3dc86ca2f089a0600cee4b5959e3b301c54e04
+[2022-05-08 07:24:42,760] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:0dfa79ba592b37b263744acf0c3dc86ca2f089a0600cee4b5959e3b301c54e04
+[2022-05-08 07:24:42,852] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:8cb8e5a827e04d35178758705dc2459d2afbf0e3b2a1d88b4b3b75ce2fd40922
+[2022-05-08 07:24:42,852] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:8cb8e5a827e04d35178758705dc2459d2afbf0e3b2a1d88b4b3b75ce2fd40922
+[2022-05-08 07:24:42,944] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:8169026cac92b69905806a7918d286ccbc13a6fb42d4ded8e527131fa98692b0
+[2022-05-08 07:24:42,944] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:8169026cac92b69905806a7918d286ccbc13a6fb42d4ded8e527131fa98692b0
+[2022-05-08 07:24:43,036] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:fa9f9ce2d66df67cee0592cd04da629204882be494b0cad7ab59da8a34a6f46b
+[2022-05-08 07:24:43,036] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:fa9f9ce2d66df67cee0592cd04da629204882be494b0cad7ab59da8a34a6f46b
+[2022-05-08 07:24:43,128] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:03d3a59f80e696fd54c07611d99586a02bb2827e3e735c4cf77228930a62916e
+[2022-05-08 07:24:43,128] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:03d3a59f80e696fd54c07611d99586a02bb2827e3e735c4cf77228930a62916e
+[2022-05-08 07:24:43,221] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:221807a628538b9841f035d54e89b6fa75d4cefb40a681cfacfe7c83b088fbd0
+[2022-05-08 07:24:43,221] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:221807a628538b9841f035d54e89b6fa75d4cefb40a681cfacfe7c83b088fbd0
+[2022-05-08 07:24:43,313] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:b551e7b483d445a8d3aa28d380f2775abec9cb26ee6c4e5f572e8bed798bc387
+[2022-05-08 07:24:43,313] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:b551e7b483d445a8d3aa28d380f2775abec9cb26ee6c4e5f572e8bed798bc387
+[2022-05-08 07:24:43,405] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:41c2e95d1dc6bccc4121290deee98e859a551de7968e5304e35106015e14f39a
+[2022-05-08 07:24:43,405] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:41c2e95d1dc6bccc4121290deee98e859a551de7968e5304e35106015e14f39a
+[2022-05-08 07:24:43,500] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:0d5fb5ef2bb6b9af325677eb8ccf1db31cd556fde132eb60af86941de949acbc
+[2022-05-08 07:24:43,500] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:0d5fb5ef2bb6b9af325677eb8ccf1db31cd556fde132eb60af86941de949acbc
+[2022-05-08 07:24:43,588] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:940a8ed31078a36f9b805b7459813100e77f719f79719cff2e8d523beacf14d2
+[2022-05-08 07:24:43,588] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:940a8ed31078a36f9b805b7459813100e77f719f79719cff2e8d523beacf14d2
+[2022-05-08 07:24:43,677] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:7e68f6eb9131dde1488891869ed838ad9571adef02994692ebbeb8576b7562f8
+[2022-05-08 07:24:43,677] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:7e68f6eb9131dde1488891869ed838ad9571adef02994692ebbeb8576b7562f8
+[2022-05-08 07:24:43,772] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:281df2bf1c9cff7e8060045cd632286aefb5831a4344ba307aa19dc9324ec20a
+[2022-05-08 07:24:43,772] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:281df2bf1c9cff7e8060045cd632286aefb5831a4344ba307aa19dc9324ec20a
+[2022-05-08 07:24:43,862] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:fb74a9d8eede012dffba0ef87a138246eb4e8fa78df4b1f5531293b2e3739a67
+[2022-05-08 07:24:43,862] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:fb74a9d8eede012dffba0ef87a138246eb4e8fa78df4b1f5531293b2e3739a67
+[2022-05-08 07:24:43,951] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:ca9ffb460a9d1a7c522747de2c8c4f4948fe1e605525da6d941438d3f825c3c0
+[2022-05-08 07:24:43,951] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:ca9ffb460a9d1a7c522747de2c8c4f4948fe1e605525da6d941438d3f825c3c0
+[2022-05-08 07:24:44,039] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3bdc7d132f09cb1568cbb541b9a8bdc1c53b370d44b0c7a92b455465b2364c1e
+[2022-05-08 07:24:44,039] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:3bdc7d132f09cb1568cbb541b9a8bdc1c53b370d44b0c7a92b455465b2364c1e
+[2022-05-08 07:24:44,133] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:35c2dc0b61764c9ae0a896a942304885cb1df38460a60f93de010002c4016553
+[2022-05-08 07:24:44,133] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:35c2dc0b61764c9ae0a896a942304885cb1df38460a60f93de010002c4016553
+[2022-05-08 07:24:44,225] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9d336298a3c60a736e71089d04b5fc7b3c290c867f77d1a4887f65fffb2bf9bf
+[2022-05-08 07:24:44,225] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:9d336298a3c60a736e71089d04b5fc7b3c290c867f77d1a4887f65fffb2bf9bf
+[2022-05-08 07:24:44,313] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:bf0fcda0dcfd77ee7740cab593c15e3920c2fc1bebd19fca164b289da64b250e
+[2022-05-08 07:24:44,313] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:bf0fcda0dcfd77ee7740cab593c15e3920c2fc1bebd19fca164b289da64b250e
+[2022-05-08 07:31:34,035] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/views.py changed, reloading.
+[2022-05-08 07:31:34,479] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-08 07:31:44,596] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/views.py changed, reloading.
+[2022-05-08 07:31:45,039] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-08 07:33:14,305] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/urls.py changed, reloading.
+[2022-05-08 07:33:14,734] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-08 07:33:16,415] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/urls.py changed, reloading.
+[2022-05-08 07:33:16,838] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-08 07:40:00,818] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/views.py changed, reloading.
+[2022-05-08 07:40:01,232] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-08 07:40:10,993] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-08 07:40:11,930] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:40:11,930] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:42:01,059] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/views.py changed, reloading.
+[2022-05-08 07:42:01,515] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-08 07:42:07,598] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-08 07:42:08,836] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:42:08,836] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:42:32,529] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/views.py changed, reloading.
+[2022-05-08 07:42:32,989] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-08 07:43:22,848] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/views.py changed, reloading.
+[2022-05-08 07:43:23,288] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2022-05-08 07:43:28,428] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-08 07:43:29,293] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:43:29,293] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:48:20,719] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:archives
+[2022-05-08 07:48:20,746] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-08 07:48:20,837] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1cf06bad8d5b4539156e6abfeb47a8013495477bc91ccf0aec54d24b190c4c81
+[2022-05-08 07:48:20,837] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1cf06bad8d5b4539156e6abfeb47a8013495477bc91ccf0aec54d24b190c4c81
+[2022-05-08 07:48:20,942] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:cada69a734d12b2a35d2a75e8f8b75f54ec499657dfd11d52050c84f1c20c323
+[2022-05-08 07:48:20,942] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:cada69a734d12b2a35d2a75e8f8b75f54ec499657dfd11d52050c84f1c20c323
+[2022-05-08 07:48:21,051] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4961755bef7bace331d4a6a0f7af2403559c4ed633e4a46c7882798dc9ad2ce2
+[2022-05-08 07:48:21,051] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4961755bef7bace331d4a6a0f7af2403559c4ed633e4a46c7882798dc9ad2ce2
+[2022-05-08 07:48:21,158] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:14d7e08c9f08e18e17689030426c82b66bb996ff8da3f99d4cb148d0411db316
+[2022-05-08 07:48:21,158] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:14d7e08c9f08e18e17689030426c82b66bb996ff8da3f99d4cb148d0411db316
+[2022-05-08 07:48:21,350] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:7e13802d86536401d1433884a1f0d2e04c2e782d5b1bb2fdc75d533a8d0fd7ea
+[2022-05-08 07:48:21,350] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:7e13802d86536401d1433884a1f0d2e04c2e782d5b1bb2fdc75d533a8d0fd7ea
+[2022-05-08 07:48:21,568] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:26e8cfe50704b320383a90eaed3317fc396aad941c005bfbfe6d5a95fa7dca35
+[2022-05-08 07:48:21,568] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:26e8cfe50704b320383a90eaed3317fc396aad941c005bfbfe6d5a95fa7dca35
+[2022-05-08 07:48:21,901] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:40926fdcb9628d0416e6340e4def67a81aa48a79c619a006a0f637f4c99c6d14
+[2022-05-08 07:48:21,901] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:40926fdcb9628d0416e6340e4def67a81aa48a79c619a006a0f637f4c99c6d14
+[2022-05-08 07:48:22,378] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:8aead741b822b461da36779275a5dfcf73dfdc524c09a2b1c95731c1ae77bc77
+[2022-05-08 07:48:22,378] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:8aead741b822b461da36779275a5dfcf73dfdc524c09a2b1c95731c1ae77bc77
+[2022-05-08 07:48:22,745] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:f79fd98da2a079461fe406e382076c1193fa6fcb97de175f0132188f99eed7bf
+[2022-05-08 07:48:22,745] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:f79fd98da2a079461fe406e382076c1193fa6fcb97de175f0132188f99eed7bf
+[2022-05-08 07:48:23,164] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:48aa670a4f159d18483d3295f5b096cf63fe09017faefdf4c7d8267beece86ee
+[2022-05-08 07:48:23,164] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:48aa670a4f159d18483d3295f5b096cf63fe09017faefdf4c7d8267beece86ee
+[2022-05-08 07:48:23,620] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:53378c9d5da1928bd0e0c2419851ee1796fc6bc85986f9303f6be60ae15688aa
+[2022-05-08 07:48:23,620] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:53378c9d5da1928bd0e0c2419851ee1796fc6bc85986f9303f6be60ae15688aa
+[2022-05-08 07:48:24,080] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:30db14abb3448c411bb22dc1ede857e906b55d7630361598f77867a8edbac0d3
+[2022-05-08 07:48:24,080] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:30db14abb3448c411bb22dc1ede857e906b55d7630361598f77867a8edbac0d3
+[2022-05-08 07:48:24,466] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:eab508fc769630ed57e0eb0678e1d30507d74b0aaf41222bf51c70451da718f4
+[2022-05-08 07:48:24,466] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:eab508fc769630ed57e0eb0678e1d30507d74b0aaf41222bf51c70451da718f4
+[2022-05-08 07:48:24,946] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5a55cc649b2b529e7452d1e6de220ee52ed28bbdb077e57180aa8a036274d285
+[2022-05-08 07:48:24,946] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5a55cc649b2b529e7452d1e6de220ee52ed28bbdb077e57180aa8a036274d285
+[2022-05-08 07:48:25,441] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:01ef5a56fc119057f7f94487fe7b54331611fecf7be563183b21b44d06eb2e76
+[2022-05-08 07:48:25,441] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:01ef5a56fc119057f7f94487fe7b54331611fecf7be563183b21b44d06eb2e76
+[2022-05-08 07:48:25,857] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:52532d5e225623cbb5b8d74f9e428bbb5842445e62c8e355a0f6b781412f835d
+[2022-05-08 07:48:25,857] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:52532d5e225623cbb5b8d74f9e428bbb5842445e62c8e355a0f6b781412f835d
+[2022-05-08 07:48:26,296] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c9b06637946a743e1760a78a4e875fe5efdfca506847619c2fb8e4e82c23c38a
+[2022-05-08 07:48:26,296] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c9b06637946a743e1760a78a4e875fe5efdfca506847619c2fb8e4e82c23c38a
+[2022-05-08 07:48:26,760] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d3f205c1053db62d64603ece0eeac9fc5835169d26eb7078b058924cc1b7e08d
+[2022-05-08 07:48:26,760] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d3f205c1053db62d64603ece0eeac9fc5835169d26eb7078b058924cc1b7e08d
+[2022-05-08 07:48:27,312] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c329387ee9f48e54db50f3b9f145fc79c7238421249940805fb37d5d9ff9c746
+[2022-05-08 07:48:27,312] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c329387ee9f48e54db50f3b9f145fc79c7238421249940805fb37d5d9ff9c746
+[2022-05-08 07:48:27,819] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:63c92bbe0ea9e4aeb2993c0590bf93d77b628f3238758e5ee106f00fcb68280b
+[2022-05-08 07:48:27,819] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:63c92bbe0ea9e4aeb2993c0590bf93d77b628f3238758e5ee106f00fcb68280b
+[2022-05-08 07:50:34,476] INFO [djangoblog.blog_signals.user_auth_callback:120 blog_signals] abc@123.com
+[2022-05-08 07:50:34,476] INFO [djangoblog.blog_signals.user_auth_callback:120 blog_signals] abc@123.com
+[2022-05-08 07:50:34,477] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebari
+[2022-05-08 07:50:34,477] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebari
+[2022-05-08 07:50:34,477] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarl
+[2022-05-08 07:50:34,477] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarl
+[2022-05-08 07:50:34,477] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarp
+[2022-05-08 07:50:34,477] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarp
+[2022-05-08 07:50:34,478] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebara
+[2022-05-08 07:50:34,478] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebara
+[2022-05-08 07:50:34,479] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebars
+[2022-05-08 07:50:34,479] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebars
+[2022-05-08 07:50:34,906] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebari
+[2022-05-08 07:50:34,906] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebari
+[2022-05-08 07:50:34,907] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarl
+[2022-05-08 07:50:34,907] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarl
+[2022-05-08 07:50:34,907] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarp
+[2022-05-08 07:50:34,907] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarp
+[2022-05-08 07:50:34,908] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebara
+[2022-05-08 07:50:34,908] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebara
+[2022-05-08 07:50:34,909] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebars
+[2022-05-08 07:50:34,909] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebars
+[2022-05-08 07:50:34,960] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_oauth_apps key:cad570765113d5e1089a8d8fe6350f1b81bf832ab37bbe612fb92fcf7edfe0d9
+[2022-05-08 07:50:34,960] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_oauth_apps key:cad570765113d5e1089a8d8fe6350f1b81bf832ab37bbe612fb92fcf7edfe0d9
+[2022-05-08 07:52:39,629] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:a14f1873bb22d23c3f32952e5a812ff6fb4a2aad3080c995c943c2212d059a03
+[2022-05-08 07:52:39,629] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:a14f1873bb22d23c3f32952e5a812ff6fb4a2aad3080c995c943c2212d059a03
+[2022-05-08 07:52:43,017] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":100000,"success":0,"not_same_site":["https://example.com/author/test001.html"]}
+[2022-05-08 07:52:43,017] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":100000,"success":0,"not_same_site":["https://example.com/author/test001.html"]}
+[2022-05-08 07:52:43,020] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:a14f1873bb22d23c3f32952e5a812ff6fb4a2aad3080c995c943c2212d059a03
+[2022-05-08 07:52:43,020] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_current_site key:a14f1873bb22d23c3f32952e5a812ff6fb4a2aad3080c995c943c2212d059a03
+[2022-05-08 07:52:44,708] ERROR [djangoblog.blog_signals.send_email_signal_handler:49 blog_signals] 失败邮箱号: ['abcabc@123.com'], (500, b'Error: bad syntax', 'None')
+[2022-05-08 07:52:44,708] ERROR [djangoblog.blog_signals.send_email_signal_handler:49 blog_signals] 失败邮箱号: ['abcabc@123.com'], (500, b'Error: bad syntax', 'None')
+[2022-05-08 07:52:45,547] INFO [accounts.views.account_result:150 views] register
+[2022-05-08 07:52:45,552] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-08 07:52:45,717] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:52:45,717] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:54:34,911] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_oauth_apps key:cad570765113d5e1089a8d8fe6350f1b81bf832ab37bbe612fb92fcf7edfe0d9
+[2022-05-08 07:54:34,911] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_oauth_apps key:cad570765113d5e1089a8d8fe6350f1b81bf832ab37bbe612fb92fcf7edfe0d9
+[2022-05-08 07:54:53,493] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebari
+[2022-05-08 07:54:53,493] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebari
+[2022-05-08 07:54:53,494] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarl
+[2022-05-08 07:54:53,494] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarl
+[2022-05-08 07:54:53,494] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarp
+[2022-05-08 07:54:53,494] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarp
+[2022-05-08 07:54:53,494] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebara
+[2022-05-08 07:54:53,494] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebara
+[2022-05-08 07:54:53,494] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebars
+[2022-05-08 07:54:53,494] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebars
+[2022-05-08 07:54:53,494] INFO [accounts.views.form_valid:123 views] next
+[2022-05-08 07:54:57,067] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":100000,"success":0,"not_same_site":["https://example.com/author/test001.html"]}
+[2022-05-08 07:54:57,067] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":100000,"success":0,"not_same_site":["https://example.com/author/test001.html"]}
+[2022-05-08 07:54:57,069] INFO [djangoblog.blog_signals.user_auth_callback:120 blog_signals] abcabc@123.com
+[2022-05-08 07:54:57,069] INFO [djangoblog.blog_signals.user_auth_callback:120 blog_signals] abcabc@123.com
+[2022-05-08 07:54:57,069] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebari
+[2022-05-08 07:54:57,069] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebari
+[2022-05-08 07:54:57,069] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarl
+[2022-05-08 07:54:57,069] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarl
+[2022-05-08 07:54:57,070] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarp
+[2022-05-08 07:54:57,070] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarp
+[2022-05-08 07:54:57,070] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebara
+[2022-05-08 07:54:57,070] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebara
+[2022-05-08 07:54:57,070] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebars
+[2022-05-08 07:54:57,070] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebars
+[2022-05-08 07:54:58,808] INFO [blog.context_processors.seo_processor:16 context_processors] set processor cache.
+[2022-05-08 07:55:02,846] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:55:02,846] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2022-05-08 07:55:13,844] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:archives
+[2022-05-08 07:55:13,861] INFO [blog.templatetags.blog_tags.load_sidebar:133 blog_tags] load sidebar
+[2022-05-08 07:55:14,380] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1cf06bad8d5b4539156e6abfeb47a8013495477bc91ccf0aec54d24b190c4c81
+[2022-05-08 07:55:14,380] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:1cf06bad8d5b4539156e6abfeb47a8013495477bc91ccf0aec54d24b190c4c81
+[2022-05-08 07:55:14,869] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:cada69a734d12b2a35d2a75e8f8b75f54ec499657dfd11d52050c84f1c20c323
+[2022-05-08 07:55:14,869] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:cada69a734d12b2a35d2a75e8f8b75f54ec499657dfd11d52050c84f1c20c323
+[2022-05-08 07:55:15,288] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4961755bef7bace331d4a6a0f7af2403559c4ed633e4a46c7882798dc9ad2ce2
+[2022-05-08 07:55:15,288] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:4961755bef7bace331d4a6a0f7af2403559c4ed633e4a46c7882798dc9ad2ce2
+[2022-05-08 07:55:15,757] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:14d7e08c9f08e18e17689030426c82b66bb996ff8da3f99d4cb148d0411db316
+[2022-05-08 07:55:15,757] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:14d7e08c9f08e18e17689030426c82b66bb996ff8da3f99d4cb148d0411db316
+[2022-05-08 07:55:16,207] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:7e13802d86536401d1433884a1f0d2e04c2e782d5b1bb2fdc75d533a8d0fd7ea
+[2022-05-08 07:55:16,207] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:7e13802d86536401d1433884a1f0d2e04c2e782d5b1bb2fdc75d533a8d0fd7ea
+[2022-05-08 07:55:16,679] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:26e8cfe50704b320383a90eaed3317fc396aad941c005bfbfe6d5a95fa7dca35
+[2022-05-08 07:55:16,679] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:26e8cfe50704b320383a90eaed3317fc396aad941c005bfbfe6d5a95fa7dca35
+[2022-05-08 07:55:17,018] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:40926fdcb9628d0416e6340e4def67a81aa48a79c619a006a0f637f4c99c6d14
+[2022-05-08 07:55:17,018] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:40926fdcb9628d0416e6340e4def67a81aa48a79c619a006a0f637f4c99c6d14
+[2022-05-08 07:55:17,497] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:8aead741b822b461da36779275a5dfcf73dfdc524c09a2b1c95731c1ae77bc77
+[2022-05-08 07:55:17,497] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:8aead741b822b461da36779275a5dfcf73dfdc524c09a2b1c95731c1ae77bc77
+[2022-05-08 07:55:17,978] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:f79fd98da2a079461fe406e382076c1193fa6fcb97de175f0132188f99eed7bf
+[2022-05-08 07:55:17,978] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:f79fd98da2a079461fe406e382076c1193fa6fcb97de175f0132188f99eed7bf
+[2022-05-08 07:55:18,347] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:48aa670a4f159d18483d3295f5b096cf63fe09017faefdf4c7d8267beece86ee
+[2022-05-08 07:55:18,347] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:48aa670a4f159d18483d3295f5b096cf63fe09017faefdf4c7d8267beece86ee
+[2022-05-08 07:55:18,840] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:53378c9d5da1928bd0e0c2419851ee1796fc6bc85986f9303f6be60ae15688aa
+[2022-05-08 07:55:18,840] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:53378c9d5da1928bd0e0c2419851ee1796fc6bc85986f9303f6be60ae15688aa
+[2022-05-08 07:55:19,471] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:30db14abb3448c411bb22dc1ede857e906b55d7630361598f77867a8edbac0d3
+[2022-05-08 07:55:19,471] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:30db14abb3448c411bb22dc1ede857e906b55d7630361598f77867a8edbac0d3
+[2022-05-08 07:55:20,198] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:eab508fc769630ed57e0eb0678e1d30507d74b0aaf41222bf51c70451da718f4
+[2022-05-08 07:55:20,198] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:eab508fc769630ed57e0eb0678e1d30507d74b0aaf41222bf51c70451da718f4
+[2022-05-08 07:55:20,843] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5a55cc649b2b529e7452d1e6de220ee52ed28bbdb077e57180aa8a036274d285
+[2022-05-08 07:55:20,843] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:5a55cc649b2b529e7452d1e6de220ee52ed28bbdb077e57180aa8a036274d285
+[2022-05-08 07:55:21,361] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:01ef5a56fc119057f7f94487fe7b54331611fecf7be563183b21b44d06eb2e76
+[2022-05-08 07:55:21,361] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:01ef5a56fc119057f7f94487fe7b54331611fecf7be563183b21b44d06eb2e76
+[2022-05-08 07:55:21,921] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:52532d5e225623cbb5b8d74f9e428bbb5842445e62c8e355a0f6b781412f835d
+[2022-05-08 07:55:21,921] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:52532d5e225623cbb5b8d74f9e428bbb5842445e62c8e355a0f6b781412f835d
+[2022-05-08 07:55:22,547] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c9b06637946a743e1760a78a4e875fe5efdfca506847619c2fb8e4e82c23c38a
+[2022-05-08 07:55:22,547] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c9b06637946a743e1760a78a4e875fe5efdfca506847619c2fb8e4e82c23c38a
+[2022-05-08 07:55:23,068] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d3f205c1053db62d64603ece0eeac9fc5835169d26eb7078b058924cc1b7e08d
+[2022-05-08 07:55:23,068] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:d3f205c1053db62d64603ece0eeac9fc5835169d26eb7078b058924cc1b7e08d
+[2022-05-08 07:55:23,626] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c329387ee9f48e54db50f3b9f145fc79c7238421249940805fb37d5d9ff9c746
+[2022-05-08 07:55:23,626] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:c329387ee9f48e54db50f3b9f145fc79c7238421249940805fb37d5d9ff9c746
+[2022-05-08 07:55:24,150] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:63c92bbe0ea9e4aeb2993c0590bf93d77b628f3238758e5ee106f00fcb68280b
+[2022-05-08 07:55:24,150] INFO [djangoblog.utils.news:52 utils] cache_decorator set cache:get_article_count key:63c92bbe0ea9e4aeb2993c0590bf93d77b628f3238758e5ee106f00fcb68280b
+[2022-05-08 07:59:32,662] INFO [django.utils.autoreload.trigger_reload:266 autoreload] /Users/songhuicao/Desktop/Testing/aal_website/blog/views.py changed, reloading.
+[2022-05-08 07:59:33,185] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader

@@ -6,7 +6,12 @@ from . import views
 app_name = "blog"
 urlpatterns = [
     path(
-        r'',
+        '', 
+        views.HomePage.as_view(),
+        name='home'
+    ),
+    path(
+        r'index/',
         views.IndexView.as_view(),
         name='index'),
     path(
