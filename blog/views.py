@@ -84,15 +84,27 @@ class ArticleListView(ListView):
         return super(ArticleListView, self).get_context_data(**kwargs)
 
 
+class HomePage(ListView):
+    model = Links
+    template_name = 'blog/homepage.html'
+
+    #create a DB for homepage
+    def get_queryset(self):
+        return Links.objects.filter(is_enable=False)
+
+   
+
+
+
 class IndexView(ArticleListView):
     '''
-    首页
+    Index
     '''
     # 友情链接类型
     link_type = LinkShowType.I
 
     def get_queryset_data(self):
-        article_list = Article.objects.filter(type='a', status='h')
+        article_list = Article.objects.filter(type='a', status='p')
         return article_list
 
     def get_queryset_cache_key(self):

@@ -630,6 +630,8 @@ a:hover {
     display: inline-block;
 }
 
+
+
 /* Banner */
 section[role="banner"] {
     margin-bottom: 48px;
@@ -2501,4 +2503,28 @@ li #reply-title {
     height: 1px;
     border: none;
     /*border-top: 1px dashed #f5d6d6;*/
+}
+
+/* Homepage new add*/
+.main-info{
+    width: 75%;
+    margin: auto; 
+    line-height: 2em;
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 8px 10px;
+}
+
+.main-info h1{
+    font-size: 200%; 
+    text-align: center;
+}
+
+.main-info p{
+    font-size: 120%; 
+}
+
+.nav-right{
+    float: right;;
 }

@@ -25,6 +25,16 @@
 
                 <a href="{% url "blog:archives" %}">文章归档</a>
             </li>
+            <!--search-->
+            <li class="nav-right">
+                <form role="search" method="get" id="searchform" class="searchform" action="/search">
+                        <div>
+                            <label class="screen-reader-text" for="s">Search：</label>
+                            <input type="text" value="" name="q" id="q"/>
+                            <input type="submit" id="searchsubmit" value="搜索"/>
+                        </div>
+                </form>
+            </li>
         </ul>
     </div>
 </nav><!-- #site-navigation -->
