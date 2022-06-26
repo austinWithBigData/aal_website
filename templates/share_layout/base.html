@@ -48,11 +48,39 @@
 <body class="home blog custom-font-enabled">
 <div id="page" class="hfeed site">
     <header id="masthead" class="site-header" role="banner">
-        <hgroup>
-            <h1 class="site-title"><a href="/" title="{{ SITE_NAME }}" rel="home">{{ SITE_NAME }}</a>
-            </h1>
-            <h2 class="site-description">{{ SITE_DESCRIPTION }}</h2>
-        </hgroup>
+        <div style="display: inline">
+            <ul>
+                <li  style="width:50%">
+                    <div>
+                        <h1 class="site-title" style=""><a href="/" title="{{ SITE_NAME }}" rel="home">{{ SITE_NAME }}</a>
+                        </h1>
+
+                        <h2 class="site-description">{{ SITE_DESCRIPTION }}</h2>
+                     </div>
+                </li>
+
+                <li  style="float:right; width:50%">
+                    <div style="text-align:right">
+                        <ul class = "base-li">
+                            <li>
+                                <a href="/admin/" rel="nofollow">管理站点</a></li>
+                            {% if user.is_authenticated %}
+                            <!-- 登出 -->
+                                <li><a href="{% url "account:logout" %}" rel="nofollow">log out</a>
+                                </li>
+                            {% else %}
+                            <!-- 登录 -->
+                                <li><a href="{% url "account:login" %}" rel="nofollow">log in</a></li>
+                            {% endif %}
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+
+
+        </div>
+
+
 
         {% cache 36000 nav %}
             {% include 'share_layout/nav.html' %}

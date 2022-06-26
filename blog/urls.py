@@ -53,6 +53,14 @@ urlpatterns = [
             views.ArchivesView.as_view()),
         name='archives'),
     path(
+        'aboutus.html',
+            views.AboutUsView.as_view(),
+        name='aboutus'),
+    path(
+        'contactus.html',
+            views.ContactUsView.as_view(),
+        name='contactus'),
+    path(
         'links.html',
         views.LinkListView.as_view(),
         name='links'),

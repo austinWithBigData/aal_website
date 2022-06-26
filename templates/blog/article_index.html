@@ -25,7 +25,7 @@
                     <p class="archive-title">{{ page_type }}：<span>{{ tag_name }}</span></p>
                 </header><!-- .archive-header -->
             {% endif %}
-            <p>This is mulu page</p>
+
             {% for article in article_list %}
                 {% load_article_detail article True user %}
             {% endfor %}
@@ -40,4 +40,5 @@
 
 {% endblock %}
 {% block sidebar %}
+    {% load_sidebar user 'i' %}
 {% endblock %}
