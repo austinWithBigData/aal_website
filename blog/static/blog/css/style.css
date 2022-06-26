@@ -2505,7 +2505,7 @@ li #reply-title {
     /*border-top: 1px dashed #f5d6d6;*/
 }
 
-/* Homepage new add*/
+/* Homepage new added*/
 .main-info{
     width: 75%;
     margin: auto; 
@@ -2525,6 +2525,18 @@ li #reply-title {
     font-size: 120%; 
 }
 
+.main-info li{
+    display: inline-block;
+}
+
+
 .nav-right{
-    float: right;;
+    float: right;
+    margin-top: 10px;
+    margin-bottom: auto;
+
+}
+
+.base-li li{
+    display: inline;
 }

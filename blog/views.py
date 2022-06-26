@@ -85,16 +85,15 @@ class ArticleListView(ListView):
 
 
 class HomePage(ListView):
+    #HomePage
     model = Links
     template_name = 'blog/homepage.html'
 
-    #create a DB for homepage
+    #create a DB for homepage (need to rewrite)
     def get_queryset(self):
         return Links.objects.filter(is_enable=False)
 
    
-
-
 
 class IndexView(ArticleListView):
     '''
@@ -255,6 +254,20 @@ class ArchivesView(ArticleListView):
     def get_queryset_cache_key(self):
         cache_key = 'archives'
         return cache_key
+
+class AboutUsView(ListView):
+    model = Links
+    template_name = 'blog/about_us.html'
+
+    def get_queryset(self):
+        return Links.objects.filter(is_enable=False)
+
+class ContactUsView(ListView):
+    model = Links
+    template_name = 'blog/contact_us.html'
+
+    def get_queryset(self):
+        return Links.objects.filter(is_enable=False)
 
 
 class LinkListView(ListView):

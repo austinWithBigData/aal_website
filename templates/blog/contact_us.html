@@ -1,0 +1,54 @@
+{% extends 'share_layout/base.html' %}
+{% load blog_tags %}
+{% load cache %}
+{% block header %}
+    {% if tag_name %}
+        <title>{{ page_type }}:{{ tag_name }} | {{ SITE_DESCRIPTION }}</title>
+        {% comment %}<meta name="description" content="{{ page_type }}:{{ tag_name }}"/>{% endcomment %}
+    {% else %}
+        <title>{{ SITE_NAME }} | {{ SITE_DESCRIPTION }}</title>
+    {% endif %}
+    <meta name="description" content="{{ SITE_SEO_DESCRIPTION }}"/>
+    <meta name="keywords" content="{{ SITE_KEYWORDS }}"/>
+    <meta property="og:type" content="blog"/>
+    <meta property="og:title" content="{{ SITE_NAME }}"/>
+    <meta property="og:description" content="{{ SITE_DESCRIPTION }}"/>
+    <meta property="og:url" content="{{ SITE_BASE_URL }}"/>
+    <meta property="og:site_name" content="{{ SITE_NAME }}"/>
+{% endblock %}
+{% block content %}
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+            {% if page_type and tag_name %}
+                <header class="archive-header">
+
+                    <p class="archive-title">{{ page_type }}：<span>{{ tag_name }}</span></p>
+                </header><!-- .archive-header -->
+            {% endif %}
+        
+
+        </div><!-- #content -->
+    </div><!-- #primary -->
+
+
+    <div class="main-info">
+            <h1>Contact Us</h1>
+
+            <br>
+            <p>Let’s talk 👋 Don’t hesitate to reach out with the contact 
+            information below and follow us, or send a message using the form.</p>
+
+            <br>
+
+            <p>Lorem ipsum dolor sit amet 
+            consectetur adipisicing elit. Dignissimos eum iure fuga 
+            vero doloremque tempore velit, facilis minus, voluptate 
+            commodi eveniet dicta iusto deserunt, a quae blanditiis 
+            nobis culpa. Itaque ea dolorum similique consequatur assumenda 
+            distinctio consequuntur voluptatibus provident, porro enim 
+            ipsa labore nobis repellat maiores aperiam. Tempore, saepe ipsa!</p>
+        
+    </div>  
+
+    
+{% endblock %}
