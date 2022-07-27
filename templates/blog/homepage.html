@@ -1,5 +1,6 @@
 {% extends 'share_layout/base.html' %}
 {% load blog_tags %}
+{% load static %}
 {% load cache %}
 {% block header %}
     {% if tag_name %}
@@ -15,6 +16,14 @@
     <meta property="og:description" content="{{ SITE_DESCRIPTION }}"/>
     <meta property="og:url" content="{{ SITE_BASE_URL }}"/>
     <meta property="og:site_name" content="{{ SITE_NAME }}"/>
+
+    <!--Latest compiled and minified CSS--> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+       
 {% endblock %}
 {% block content %}
     <div id="primary" class="site-content">
@@ -28,36 +37,79 @@
         
 
         </div><!-- #content -->
-    </div><!-- #primary -->
-    <div class="main-info">
-            <h1>Asian American Leaders</h1>
+    </div><!-- #primary --> 
 
+    <div class="row" style="">
+        <div class="col-sm-8 main-info" style="width: 60%;">
+            <h1>Asian American Leaders</h1>
             <br>
             <p>Asian American Leaders (AAL) 
-                is a non-profit organization headquartered in 
-                North Carolina, USA. Our mission is to organize 
-                and unite Asian leaders working in the United States 
-                to build an interactive platform for resource sharing. 
-                We try to help people who want to be a leader in 
-                different industries.</p>
-        
+            is a non-profit organization headquartered in 
+            North Carolina, USA. Our mission is to organize 
+            and unite Asian leaders working in the United States 
+            to build an interactive platform for resource sharing. 
+            We try to help people who want to be a leader in 
+            different industries.</p>
+        </div>
+        <div class="col-sm-4">
+            <img style="width:25vw;" src="{% static 'blog/img/pic.jpeg' %} " >   
+        </div>
     </div>
 
-    <div class="main-info">
-                <h1>About AAL</h1>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <div class="entry-content">
 
-                <br>
-                <p>Lorem ipsum dolor sit amet 
-                    consectetur adipisicing elit. Dignissimos eum iure fuga 
-                    vero doloremque tempore velit, facilis minus, voluptate 
-                    commodi eveniet dicta iusto deserunt, a quae blanditiis 
-                    nobis culpa. Itaque ea dolorum similique consequatur assumenda 
-                    distinctio consequuntur voluptatibus provident, porro enim 
-                    ipsa labore nobis repellat maiores aperiam. Tempore, saepe ipsa!</p>
-
+        <!--need to change the picture-->
+        {% if article_list %}
+            {% for a in article_list|slice:"0:1"%}
+                <div class="col-sm-4" style="line-height: 1.2">
+                    <img style="width:15vw;" src="{% static 'blog/img/blogpic1.jpg' %} " >   
                 
-            
-    </div>  
+                    <ul style="font-size: 160%;">{{ a.title }}</ul>
+                    <ul style="font-size: 120%;"><a href="{{ a.get_absolute_url }}">Read more</a></ul>
+                </div>
+            {% endfor %}
+
+            {% for a in article_list|slice:"1:2"%}
+                <div class="col-sm-4" style="line-height: 1.2">
+                    <img style="width:15vw;" src="{% static 'blog/img/blog2.jpg' %} " >   
+                
+                    <ul style="font-size: 160%;">{{ a.title }}</ul>
+                    <ul style="font-size: 120%;"><a href="{{ a.get_absolute_url }}">Read more</a></ul>
+                </div>
+            {% endfor %}
+
+            {% for a in article_list|slice:"2:3"%}
+                <div class="col-sm-4" style="line-height: 1.2">
+                    <img style="width:15vw;" src="{% static 'blog/img/blog3.jpg' %} " >   
+                
+                    <ul style="font-size: 160%;">{{ a.title }}</ul>
+                    <ul style="font-size: 120%;"><a href="{{ a.get_absolute_url }}">Read more</a></ul>
+                </div>
+            {% endfor %}
+        {% endif %}
+        <br>
+        <br>
+    </div>
+
+    <br>
+    <br>
+
+    
+
+    
+
+
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+     
 
     
 {% endblock %}

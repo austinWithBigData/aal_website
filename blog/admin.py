@@ -10,7 +10,7 @@ from .models import Article
 
 
 class ArticleListFilter(admin.SimpleListFilter):
-    title = _("作者")
+    title = _("author")
     parameter_name = 'author'
 
     def lookups(self, request, model_admin):
@@ -86,7 +86,7 @@ class ArticlelAdmin(admin.ModelAdmin):
         link = reverse('admin:%s_%s_change' % info, args=(obj.category.id,))
         return format_html(u'<a href="%s">%s</a>' % (link, obj.category.name))
 
-    link_to_category.short_description = '分类目录'
+    link_to_category.short_description = 'Category'
 
     def get_form(self, request, obj=None, **kwargs):
         form = super(ArticlelAdmin, self).get_form(request, obj, **kwargs)

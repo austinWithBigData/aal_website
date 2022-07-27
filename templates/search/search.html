@@ -16,7 +16,7 @@
             {% if query %}
                 <header class="archive-header">
 
-                    <h2 class="archive-title"> 搜索：<span style="color: red">{{ query }}</span></h2>
+                    <h2 class="archive-title"> Search：<span style="color: red">{{ query }}</span></h2>
                 </header><!-- .archive-header -->
             {% endif %}
             {% if query and page.object_list %}
@@ -25,14 +25,14 @@
                 {% endfor %}
                 {% if page.has_previous or page.has_next %}
                     <nav id="nav-below" class="navigation" role="navigation">
-                        <h3 class="assistive-text">文章导航</h3>
+                        <h3 class="assistive-text">Article Index</h3>
                         {% if page.has_previous %}
                             <div class="nav-previous"><a
                                     href="?q={{ query }}&amp;page={{ page.previous_page_number }}"><span
-                                    class="meta-nav">&larr;</span> 早期文章</a></div>
+                                    class="meta-nav">&larr;</span>previous post</a></div>
                         {% endif %}
                         {% if page.has_next %}
-                            <div class="nav-next"><a href="?q={{ query }}&amp;page={{ page.next_page_number }}">较新文章
+                            <div class="nav-next"><a href="?q={{ query }}&amp;page={{ page.next_page_number }}">next post
                                 <span
                                         class="meta-nav">→</span></a>
                             </div>

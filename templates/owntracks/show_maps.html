@@ -96,12 +96,12 @@
 
         window.pathSimplifierIns = pathSimplifierIns;
 
-        $('<div id="loadingTip">加载数据，请稍候...</div>').appendTo(document.body);
+        $('<div id="loadingTip">Loading, please wait...</div>').appendTo(document.body);
 
         $.getJSON('/owntracks/get_datas?date={{ date }}', function (d) {
 
             if (!d || !d.length) {
-                $("#loadingTip").text("没有数据...")
+                $("#loadingTip").text("No data...")
                 return;
             }
             $('#loadingTip').remove();
@@ -114,7 +114,7 @@
             }
 
             function onerror(e) {
-                alert('图片加载失败！');
+                alert('Image loading failed!');
             }
 
             d.forEach(function (item, index) {

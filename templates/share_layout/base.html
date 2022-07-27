@@ -29,6 +29,13 @@
     <link rel='stylesheet preload' as="font" id='twentytwelve-fonts-css'
           href='{% static 'blog/fonts/fonts.css' %}'
           type='text/css' media='all'/>
+
+    <!--Latest compiled and minified CSS--> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
     {% compress css %}
 
         <link rel='stylesheet' id='twentytwelve-style-css' href='{% static 'blog/css/style.css' %}' type='text/css'
@@ -46,41 +53,32 @@
 </head>
 
 <body class="home blog custom-font-enabled">
-<div id="page" class="hfeed site">
+<div id="page" class="hfeed site" style="max-width: 80%;">
     <header id="masthead" class="site-header" role="banner">
-        <div style="display: inline">
-            <ul>
-                <li  style="width:50%">
-                    <div>
-                        <h1 class="site-title" style=""><a href="/" title="{{ SITE_NAME }}" rel="home">{{ SITE_NAME }}</a>
-                        </h1>
+        <div class="row">
+            <div class="col-sm-6">
+                <h1 class="site-title" style=""><a href="/" title="{{ SITE_NAME }}" rel="home">
+                    <img style="width:15vw;" src="{% static 'blog/img/AAL(2).png' %} ">
+                </a>
+                </h1>
+            </div>
 
-                        <h2 class="site-description">{{ SITE_DESCRIPTION }}</h2>
-                     </div>
-                </li>
+            <div class="col-sm-6" style="text-align:right">
+                <ul class = "base-li">
+                    <li>
+                        <a href="/admin/" rel="nofollow">Admin</a></li>
+                    {% if user.is_authenticated %}
+                    <!-- 登出 -->
+                        <li><a href="{% url "account:logout" %}" rel="nofollow">log out</a>
+                        </li>
+                    {% else %}
+                    <!-- 登录 -->
+                        <li><a href="{% url "account:login" %}" rel="nofollow">log in</a></li>
+                    {% endif %}
+                </ul>
 
-                <li  style="float:right; width:50%">
-                    <div style="text-align:right">
-                        <ul class = "base-li">
-                            <li>
-                                <a href="/admin/" rel="nofollow">管理站点</a></li>
-                            {% if user.is_authenticated %}
-                            <!-- 登出 -->
-                                <li><a href="{% url "account:logout" %}" rel="nofollow">log out</a>
-                                </li>
-                            {% else %}
-                            <!-- 登录 -->
-                                <li><a href="{% url "account:login" %}" rel="nofollow">log in</a></li>
-                            {% endif %}
-                        </ul>
-                    </div>
-                </li>
-            </ul>
-
-
+            </div>
         </div>
-
-
 
         {% cache 36000 nav %}
             {% include 'share_layout/nav.html' %}
@@ -100,6 +98,10 @@
     </div><!-- #main .wrapper -->
     {% include 'share_layout/footer.html' %}
 </div><!-- #page -->
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+ 
 
 </body>
 <footer>

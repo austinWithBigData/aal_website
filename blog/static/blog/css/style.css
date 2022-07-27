@@ -2521,8 +2521,20 @@ li #reply-title {
     text-align: center;
 }
 
+.main-info h2{
+    font-size: 160%; 
+    margin-bottom: 0.5em;
+}
+
+.main-info h3{
+    font-size: 200%; 
+    text-align: center;
+}
+
 .main-info p{
-    font-size: 120%; 
+    font-size: 150%; 
+    text-indent: 60px;
+    line-height: 1.6;
 }
 
 .main-info li{
@@ -2539,4 +2551,21 @@ li #reply-title {
 
 .base-li li{
     display: inline;
+}
+
+.main_img body{
+    display: grid;
+    padding: 2rem;
+    grid-template-columns: 300px 1fr;
+    gap: 1rem;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    font: 500 100%/1,5 system-ui;
+
+}
+
+.main_img img{
+    max-width: 100%;
+    height: auto;
 }

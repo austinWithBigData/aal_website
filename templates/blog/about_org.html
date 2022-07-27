@@ -1,0 +1,71 @@
+{% extends 'share_layout/base.html' %}
+{% load blog_tags %}
+{% load cache %}
+{% block header %}
+    {% if tag_name %}
+        <title>{{ page_type }}:{{ tag_name }} | {{ SITE_DESCRIPTION }}</title>
+        {% comment %}<meta name="description" content="{{ page_type }}:{{ tag_name }}"/>{% endcomment %}
+    {% else %}
+        <title>{{ SITE_NAME }} | {{ SITE_DESCRIPTION }}</title>
+    {% endif %}
+    <meta name="description" content="{{ SITE_SEO_DESCRIPTION }}"/>
+    <meta name="keywords" content="{{ SITE_KEYWORDS }}"/>
+    <meta property="og:type" content="blog"/>
+    <meta property="og:title" content="{{ SITE_NAME }}"/>
+    <meta property="og:description" content="{{ SITE_DESCRIPTION }}"/>
+    <meta property="og:url" content="{{ SITE_BASE_URL }}"/>
+    <meta property="og:site_name" content="{{ SITE_NAME }}"/>
+{% endblock %}
+{% block content %}
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+            {% if page_type and tag_name %}
+                <header class="archive-header">
+
+                    <p class="archive-title">{{ page_type }}：<span>{{ tag_name }}</span></p>
+                </header><!-- .archive-header -->
+            {% endif %}
+        
+
+        </div><!-- #content -->
+    </div><!-- #primary -->
+
+
+    <div class="main-info">
+            <h1>About Organization</h1>
+
+            <br>
+            <p>Lorem ipsum dolor sit amet 
+                  consectetur adipisicing elit. Dignissimos eum iure fuga 
+                  vero doloremque tempore velit, facilis minus, voluptate 
+                  commodi eveniet dicta iusto deserunt, a quae blanditiis 
+                  nobis culpa. Itaque ea dolorum similique consequatur assumenda 
+                  distinctio consequuntur voluptatibus provident, porro enim 
+                  ipsa labore nobis repellat maiores aperiam. Tempore, saepe ipsa!
+            </p>
+            <br>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+                  Error magni molestiae suscipit omnis adipisci molestias 
+                  iure nesciunt totam, reprehenderit atque distinctio porro 
+                  ut rerum beatae debitis deleniti ullam soluta quae ratione. 
+                  Aliquid iste veritatis, culpa in, placeat eius nihil ad dolore 
+                  vero velit mollitia assumenda, nemo blanditiis ipsum esse qui 
+                  quas ullam fugit iusto ab. Veritatis perspiciatis magnam labore 
+                  iure accusantium aliquid reprehenderit, veniam eos odit eum 
+                  reiciendis placeat delectus! Porro quaerat nesciunt magni quidem 
+                  est deserunt quasi quas deleniti!
+            </p>
+            <br>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam 
+                  fugiat molestiae culpa neque, cum incidunt minima omnis asperiores 
+                  fugit aliquam quae consectetur placeat sit eveniet quasi rerum 
+                  inventore iste eum, porro enim dolorem magnam! Porro deserunt 
+                  dicta tempore officiis eveniet! Quas necessitatibus rerum ab, 
+                  aspernatur itaque hic quae, sunt quia temporibus quidem nemo 
+                  quaerat architecto ullam saepe, debitis minus! Ut.
+            </p>
+        
+    </div>  
+
+    
+{% endblock %}
