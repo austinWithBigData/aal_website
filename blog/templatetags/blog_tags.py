@@ -121,6 +121,7 @@ def load_articletags(article):
 
 @register.inclusion_tag('blog/tags/sidebar.html')
 def load_sidebar(user, linktype):
+
     """
     加载侧边栏
     :return:
@@ -177,7 +178,6 @@ def load_sidebar(user, linktype):
         value['user'] = user
         return value
 
-
 @register.inclusion_tag('blog/tags/article_meta_info.html')
 def load_article_metas(article, user):
     """
@@ -204,7 +204,7 @@ def load_pagination_info(page_obj, page_type, tag_name):
             previous_url = reverse(
                 'blog:index_page', kwargs={
                     'page': previous_number})
-    if page_type == '分类标签归档':
+    if page_type == 'Tags Archive':
         tag = get_object_or_404(Tag, name=tag_name)
         if page_obj.has_next():
             next_number = page_obj.next_page_number()
@@ -220,7 +220,7 @@ def load_pagination_info(page_obj, page_type, tag_name):
                 kwargs={
                     'page': previous_number,
                     'tag_name': tag.slug})
-    if page_type == '作者文章归档':
+    if page_type == 'Author Article Archive':
         if page_obj.has_next():
             next_number = page_obj.next_page_number()
             next_url = reverse(
@@ -236,7 +236,7 @@ def load_pagination_info(page_obj, page_type, tag_name):
                     'page': previous_number,
                     'author_name': tag_name})
 
-    if page_type == '分类目录归档':
+    if page_type == 'Category Archives':
         category = get_object_or_404(Category, name=tag_name)
         if page_obj.has_next():
             next_number = page_obj.next_page_number()
@@ -262,6 +262,24 @@ def load_pagination_info(page_obj, page_type, tag_name):
 
 @register.inclusion_tag('blog/tags/article_info.html')
 def load_article_detail(article, isindex, user):
+    """
+    加载文章详情
+    :param article:
+    :param isindex:是否列表页，若是列表页只显示摘要
+    :return:
+    """
+    from djangoblog.utils import get_blog_setting
+    blogsetting = get_blog_setting()
+
+    return {
+        'article': article,
+        'isindex': isindex,
+        'user': user,
+        'open_site_comment': blogsetting.open_site_comment,
+    }
+
+@register.inclusion_tag('blog/tags/homepage.html')
+def load_homepage_article(article, isindex, user):
     """
     加载文章详情
     :param article:

@@ -2,6 +2,7 @@ import datetime
 import logging
 # Create your views here.
 import os
+from telnetlib import STATUS
 import uuid
 
 from django.conf import settings
@@ -11,6 +12,7 @@ from django.shortcuts import render
 from django.views.decorators.csrf import csrf_exempt
 from django.views.generic.detail import DetailView
 from django.views.generic.list import ListView
+from elasticsearch_dsl import A
 
 from blog.models import Article, Category, Tag, Links, LinkShowType
 from comments.forms import CommentForm
@@ -86,12 +88,19 @@ class ArticleListView(ListView):
 
 class HomePage(ListView):
     #HomePage
-    model = Links
+    model = Article
     template_name = 'blog/homepage.html'
 
     #create a DB for homepage (need to rewrite)
     def get_queryset(self):
-        return Links.objects.filter(is_enable=False)
+        return Article.objects.filter(status='p').all()
+
+    def get_queryset_data(self):
+        return Article.objects.filter(status='p').all()
+    
+    def get_query_cache_key(self):
+        cache_key = Article.objects.filter(status = 'p')
+        return cache_key
 
    
 
@@ -146,7 +155,7 @@ class CategoryDetailView(ArticleListView):
     '''
     分类目录列表
     '''
-    page_type = "分类目录归档"
+    page_type = "Category Archives"
 
     def get_queryset_data(self):
         slug = self.kwargs['category_name']
@@ -185,7 +194,7 @@ class AuthorDetailView(ArticleListView):
     '''
     作者详情页
     '''
-    page_type = '作者文章归档'
+    page_type = 'Author Article Archive'
 
     def get_queryset_cache_key(self):
         from uuslug import slugify
@@ -211,7 +220,7 @@ class TagDetailView(ArticleListView):
     '''
     标签列表页面
     '''
-    page_type = '分类标签归档'
+    page_type = 'Tags Archive'
 
     def get_queryset_data(self):
         slug = self.kwargs['tag_name']
@@ -256,8 +265,31 @@ class ArchivesView(ArticleListView):
         return cache_key
 
 class AboutUsView(ListView):
+    '''
+    About Us page
+    '''
     model = Links
     template_name = 'blog/about_us.html'
+
+    def get_queryset(self):
+        return Links.objects.filter(is_enable=False)
+
+class AboutOrgView(ListView):
+    '''
+    About Org page
+    '''
+    model = Links
+    template_name = 'blog/about_org.html'
+
+    def get_queryset(self):
+        return Links.objects.filter(is_enable=False)
+
+class AboutTeamView(ListView):
+    '''
+    About Team page
+    '''
+    model = Links
+    template_name = 'blog/about_team.html'
 
     def get_queryset(self):
         return Links.objects.filter(is_enable=False)

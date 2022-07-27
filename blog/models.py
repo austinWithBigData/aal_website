@@ -89,7 +89,7 @@ class Article(BaseModel):
     views = models.PositiveIntegerField('浏览量', default=0)
     author = models.ForeignKey(
         settings.AUTH_USER_MODEL,
-        verbose_name='作者',
+        verbose_name='Author',
         blank=False,
         null=False,
         on_delete=models.CASCADE)
